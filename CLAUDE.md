@@ -1,5 +1,9 @@
 # CLAUDE.md
 
+## General Instructions
+
+In all responses, be succinct, and use dot points.
+
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Repository Overview
@@ -30,6 +34,7 @@ The core automation is provided by `table-formatting.vba`, which formats Vietnam
 ### Table Formatting Specifications
 
 The macro applies the following format to 3-column tables:
+
 - **Table dimensions**: 15 cm total width (5 cm per column)
 - **Column 1** (Vietnamese): Aptos (Body), 12pt
 - **Column 2** (Pronunciation): Arial Narrow, 11pt
@@ -48,6 +53,7 @@ The macro applies the following format to 3-column tables:
 ### Modifying Table Formatting
 
 When making changes to the VBA script:
+
 - Font sizes, names, and styles are defined in lines 34-56
 - Border settings are in lines 65-78
 - Column widths are set in lines 28-32
