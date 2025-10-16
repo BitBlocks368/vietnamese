@@ -132,7 +132,9 @@ Ví dụ - Examples:
 
 ## Bài tập - Practice Exercises
 
-### Bài tập 1: Điền vào chỗ trống - Fill in the Blanks
+### Bài tập 1: Điền vào chỗ trống - Practice Exercise 1: Fill in the Blanks
+
+Điền từ thích hợp vào chỗ trống - Fill in the appropriate word in the blanks:
 
 1. Xin chào! Tôi là Mai. Rất vui được **\_** bạn.
    Hello! I'm Mai. Nice to **\_** you.
@@ -145,7 +147,7 @@ Ví dụ - Examples:
 
 **Đáp án - Answers:** 1. gặp/meet 2. đối tác/exchange 3. gặp/meet
 
-### Bài tập 2: Lịch sự hay thân mật? - Formal or Informal?
+### Bài tập 2: Lịch sự hay thân mật? - Practice Exercise 2: Formal or Informal?
 
 Xác định câu nào là lịch sự (L) và thân mật (T) - Identify which sentences are formal (F) or informal (I):
 
@@ -163,9 +165,9 @@ Xác định câu nào là lịch sự (L) và thân mật (T) - Identify which 
 
 **Đáp án - Answers:** 1. L/F 2. T/I 3. L/F 4. T/I
 
-### Bài tập 3: Dịch sang tiếng Việt - Translate to Vietnamese
+### Bài tập 3: Dịch sang tiếng Việt - Practice Exercise 3: Translate to Vietnamese
 
-Dịch những câu sau sang tiếng Việt (lịch sự) - Translate the following to Vietnamese (formal):
+Dịch những câu sau sang tiếng Việt (lịch sự) - Translate the following sentences to Vietnamese (formal):
 
 1. Nice to meet you!
 
@@ -184,9 +186,9 @@ Dịch những câu sau sang tiếng Việt (lịch sự) - Translate the follow
 2. Tôi đang học tiếng Việt.
 3. Bạn có muốn làm đối tác trao đổi ngôn ngữ không?
 
-### Bài tập 4: Dịch sang tiếng Anh - Translate to English
+### Bài tập 4: Dịch sang tiếng Anh - Practice Exercise 4: Translate to English
 
-Dịch những câu sau sang tiếng Anh - Translate the following to English:
+Dịch những câu sau sang tiếng Anh - Translate the following sentences to English:
 
 1. Tôi đang học tiếng Anh.
 
