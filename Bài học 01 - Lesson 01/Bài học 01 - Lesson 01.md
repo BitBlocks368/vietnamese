@@ -184,6 +184,27 @@ Dịch những câu sau sang tiếng Việt (lịch sự) - Translate the follow
 2. Tôi đang học tiếng Việt.
 3. Bạn có muốn làm đối tác trao đổi ngôn ngữ không?
 
+### Bài tập 4: Dịch sang tiếng Anh - Translate to English
+
+Dịch những câu sau sang tiếng Anh - Translate the following to English:
+
+1. Tôi đang học tiếng Anh.
+
+   ***
+
+2. Chúng ta có thể gặp nhau mỗi tuần được không?
+
+   ***
+
+3. Bạn có thể giúp tôi luyện tập được không?
+   ***
+
+**Đáp án - Answers:**
+
+1. I'm learning English.
+2. Can we meet each week?
+3. Can you help me practice?
+
 ---
 
 ## Cụm từ bổ sung - Additional Phrases
