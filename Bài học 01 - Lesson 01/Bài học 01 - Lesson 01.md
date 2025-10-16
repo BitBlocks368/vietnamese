@@ -8,18 +8,18 @@
 
 ## Từ vựng chính - Key Vocabulary
 
-| Tiếng Việt | Phát âm | English |
-|------------|---------|---------|
-| đối tác trao đổi ngôn ngữ | đối tác trao đổi ngôn ngữ | language exchange partner |
-| học | hawk | to learn, to study |
-| luyện tập | loo-yen tahp | to practice |
-| tiếng Việt | tee-eng vee-et | Vietnamese language |
-| tiếng Anh | tee-eng anh | English language |
-| có thể | kaw teh | can, to be able to |
-| giúp | yoop | to help |
-| gặp | gap | to meet |
-| tuần | too-an | week |
-| thích | tick | to like |
+| Tiếng Việt                | English                   |
+| ------------------------- | ------------------------- |
+| đối tác trao đổi ngôn ngữ | language exchange partner |
+| học                       | to learn, to study        |
+| luyện tập                 | to practice               |
+| tiếng Việt                | Vietnamese language       |
+| tiếng Anh                 | English language          |
+| có thể                    | can, to be able to        |
+| giúp                      | to help                   |
+| gặp                       | to meet                   |
+| tuần                      | week                      |
+| thích                     | to like                   |
 
 ---
 
@@ -78,10 +78,12 @@
 ### 1. Đại từ nhân xưng - Personal Pronouns
 
 **Lịch sự - Formal:**
+
 - **Tôi** = I, me
 - **Bạn** = You
 
 **Thân mật - Informal:**
+
 - **Mình** = I, me (friendly)
 - **Cậu** = You (friendly, among friends)
 - **Chúng mình** = We (informal, "the two of us")
@@ -90,10 +92,12 @@
 ### 2. Câu hỏi xác nhận - Confirmation Questions
 
 **"phải không?"** = "right?", "aren't you?", "isn't it?"
+
 - Đặt ở cuối câu - Place at end of sentence
 - Ví dụ - Example: "Bạn đang học tiếng Việt phải không?"
 
 **"à?"** = casual version of "phải không?"
+
 - Thân mật hơn - More informal
 - Ví dụ - Example: "Cậu đang học tiếng Anh à?"
 
@@ -102,31 +106,9 @@
 Cấu trúc - Structure: **Subject + có + Verb + không?**
 
 Ví dụ - Examples:
+
 - Bạn **có muốn** làm đối tác **không?** = Do you want to be partners?
 - Chúng ta **có thể** gặp nhau **không?** = Can we meet?
-
----
-
-## Hướng dẫn phát âm - Pronunciation Guide
-
-### Âm thanh khó - Difficult Sounds
-
-1. **Thanh điệu - Tones:**
-   - Ngang (level): học
-   - Huyền (falling): tuần
-   - Sắc (rising): đối
-   - Hỏi (dipping): thể
-   - Ngã (rising broken): ngã
-   - Nặng (dropping): tập
-
-2. **Phụ âm - Consonants:**
-   - **nh** (like Spanish "ñ"): Anh, mình
-   - **ng/ngh** (like "ng" in "sing"): ngôn ngữ
-   - **gi** (like "y" in "yes"): giúp
-
-3. **Nguyên âm - Vowels:**
-   - **ươ** (rounded): luyện
-   - **iê** (rising diphthong): tiếng
 
 ---
 
@@ -135,15 +117,15 @@ Ví dụ - Examples:
 ### Lịch sự và khoảng cách xã hội - Politeness and Social Distance
 
 1. **Sử dụng hình thức lịch sự khi mới gặp - Use formal forms when first meeting**
+
    - Bắt đầu với "tôi" và "bạn" - Start with "tôi" and "bạn"
    - Chuyển sang thân mật sau khi quen hơn - Switch to informal after becoming closer
 
 2. **Cà phê là phổ biến cho gặp gỡ - Coffee meetings are common**
-   - Người Việt thích gặp nhau ở quán cà phê - Vietnamese people love meeting at cafés
+
    - Cà phê sữa đá rất phổ biến - Iced milk coffee is very popular
 
 3. **Kiên nhẫn với ngôn ngữ - Be patient with language**
-   - Người Việt thường vui khi người nước ngoài học tiếng Việt - Vietnamese people are usually happy when foreigners learn Vietnamese
    - Đừng ngại mắc lỗi - Don't be afraid to make mistakes
 
 ---
@@ -152,49 +134,52 @@ Ví dụ - Examples:
 
 ### Bài tập 1: Điền vào chỗ trống - Fill in the Blanks
 
-1. Xin chào! Tôi là Mai. Rất vui được _____ bạn.
-   Hello! I'm Mai. Nice to _____ you.
+1. Xin chào! Tôi là Mai. Rất vui được **\_** bạn.
+   Hello! I'm Mai. Nice to **\_** you.
 
-2. Bạn có muốn làm _____ trao đổi ngôn ngữ với tôi không?
-   Would you like to be a language _____ partner with me?
+2. Bạn có muốn làm **\_** trao đổi ngôn ngữ với tôi không?
+   Would you like to be a language **\_** partner with me?
 
-3. Chúng ta có thể _____ nhau mỗi tuần được không?
-   Can we _____ each week?
+3. Chúng ta có thể **\_** nhau mỗi tuần được không?
+   Can we **\_** each week?
 
-**Đáp án - Answers:** 1. gặp/meet  2. đối tác/exchange  3. gặp/meet
+**Đáp án - Answers:** 1. gặp/meet 2. đối tác/exchange 3. gặp/meet
 
 ### Bài tập 2: Lịch sự hay thân mật? - Formal or Informal?
 
 Xác định câu nào là lịch sự (L) và thân mật (T) - Identify which sentences are formal (F) or informal (I):
 
-1. Tôi đang học tiếng Việt. ___
-   I'm learning Vietnamese. ___
+1. Tôi đang học tiếng Việt. **_
+   I'm learning Vietnamese. _**
 
-2. Mình rất muốn! ___
-   I'd love to! ___
+2. Mình rất muốn! **_
+   I'd love to! _**
 
-3. Chúng ta có thể gặp nhau ở đây. ___
-   We can meet here. ___
+3. Chúng ta có thể gặp nhau ở đây. **_
+   We can meet here. _**
 
-4. Cậu đang học tiếng Anh à? ___
-   You're learning English? ___
+4. Cậu đang học tiếng Anh à? **_
+   You're learning English? _**
 
-**Đáp án - Answers:** 1. L/F  2. T/I  3. L/F  4. T/I
+**Đáp án - Answers:** 1. L/F 2. T/I 3. L/F 4. T/I
 
 ### Bài tập 3: Dịch sang tiếng Việt - Translate to Vietnamese
 
 Dịch những câu sau sang tiếng Việt (lịch sự) - Translate the following to Vietnamese (formal):
 
 1. Nice to meet you!
-   _________________________________
+
+   ***
 
 2. I'm learning Vietnamese.
-   _________________________________
+
+   ***
 
 3. Would you like to be language exchange partners?
-   _________________________________
+   ***
 
 **Đáp án - Answers:**
+
 1. Rất vui được gặp bạn!
 2. Tôi đang học tiếng Việt.
 3. Bạn có muốn làm đối tác trao đổi ngôn ngữ không?
@@ -205,16 +190,16 @@ Dịch những câu sau sang tiếng Việt (lịch sự) - Translate the follow
 
 ### Hữu ích cho buổi gặp đầu tiên - Useful for First Meeting
 
-| Tiếng Việt | English |
-|------------|---------|
+| Tiếng Việt                           | English                                     |
+| ------------------------------------ | ------------------------------------------- |
 | Bạn học tiếng Việt được bao lâu rồi? | How long have you been learning Vietnamese? |
-| Tôi mới bắt đầu học. | I just started learning. |
-| Tôi học được khoảng 3 tháng rồi. | I've been learning for about 3 months. |
-| Bạn có thể nói chậm hơn được không? | Can you speak more slowly? |
-| Xin lỗi, tôi không hiểu. | Sorry, I don't understand. |
-| Bạn có thể lặp lại được không? | Can you repeat that? |
-| Cái này tiếng Việt là gì? | What is this in Vietnamese? |
-| Cái này tiếng Anh là gì? | What is this in English? |
+| Tôi mới bắt đầu học.                 | I just started learning.                    |
+| Tôi học được khoảng 3 tháng rồi.     | I've been learning for about 3 months.      |
+| Bạn có thể nói chậm hơn được không?  | Can you speak more slowly?                  |
+| Xin lỗi, tôi không hiểu.             | Sorry, I don't understand.                  |
+| Bạn có thể lặp lại được không?       | Can you repeat that?                        |
+| Cái này tiếng Việt là gì?            | What is this in Vietnamese?                 |
+| Cái này tiếng Anh là gì?             | What is this in English?                    |
 
 ---
 
