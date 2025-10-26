@@ -1,0 +1,894 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Flashcards - Bài học 01 - Dialogue Words</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      @page {
+        size: A4 landscape;
+        margin: 0;
+      }
+
+      body {
+        font-family: Arial, sans-serif;
+        background: white;
+      }
+
+      .page {
+        width: 297mm;
+        height: 210mm;
+        padding: 11mm;
+        page-break-after: always;
+        display: grid;
+        grid-template-columns: repeat(2, 137.5mm);
+        grid-template-rows: repeat(5, 37.6mm);
+        gap: 0;
+      }
+
+      .card {
+        width: 137.5mm;
+        height: 37.6mm;
+        border: 1px solid #ddd;
+        display: flex;
+        position: relative;
+      }
+
+      .card-half {
+        width: 68.75mm;
+        height: 37.6mm;
+        padding: 3mm;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+      }
+
+      .fold-line {
+        position: absolute;
+        left: 68.75mm;
+        top: 0;
+        bottom: 0;
+        width: 0;
+        border-left: 1px dashed #999;
+      }
+
+      /* Vietnamese side (left half) */
+      .vietnamese-side {
+        border-right: 1px dashed #999;
+      }
+
+      /* English side (right half) */
+      .english-side {
+      }
+
+      .main-word {
+        font-size: 18pt;
+        font-weight: bold;
+        margin-bottom: 1.5mm;
+        line-height: 1.2;
+      }
+
+      .vietnamese-side .main-word {
+        font-family: Arial, sans-serif;
+      }
+
+      .english-side .main-word {
+        font-family: Georgia, serif;
+      }
+
+      .part-of-speech {
+        font-size: 8pt;
+        font-style: italic;
+        color: #666;
+        margin-bottom: 2mm;
+      }
+
+      .examples {
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
+        gap: 1.5mm;
+      }
+
+      .example {
+        font-size: 8pt;
+        line-height: 1.3;
+      }
+
+      .example .target {
+        font-weight: bold;
+      }
+
+      .variants {
+        font-size: 7pt;
+        color: #888;
+        margin-top: 2mm;
+        font-style: italic;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Page 1 -->
+    <div class="page">
+      <!-- Card 1: xin chào / hello (formal) -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">xin chào</div>
+            <div class="part-of-speech">lời chào</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              <span class="target">Xin chào</span>! Tôi là An.
+            </div>
+            <div class="example">
+              <span class="target">Xin chào</span> An!
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">hello</div>
+            <div class="part-of-speech">greeting (formal)</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              <span class="target">Hello</span>! I am An.
+            </div>
+            <div class="example">
+              <span class="target">Hello</span> An!
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 2: chào / hi (informal) -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">chào</div>
+            <div class="part-of-speech">lời chào</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              <span class="target">Chào</span>! Mình là An.
+            </div>
+            <div class="example">
+              <span class="target">Chào</span> An!
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">hi</div>
+            <div class="part-of-speech">greeting (informal)</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              <span class="target">Hi</span>! I am An.
+            </div>
+            <div class="example">
+              <span class="target">Hi</span> An!
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 3: là / to be -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">là</div>
+            <div class="part-of-speech">động từ</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Tôi <span class="target">là</span> An.
+            </div>
+            <div class="example">
+              Mình <span class="target">là</span> Ben.
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">be</div>
+            <div class="part-of-speech">verb</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              I <span class="target">am</span> An.
+            </div>
+            <div class="example">
+              I <span class="target">am</span> Ben.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 4: rất / very -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">rất</div>
+            <div class="part-of-speech">phó từ</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              <span class="target">Rất</span> vui được gặp bạn.
+            </div>
+            <div class="example">
+              Tôi <span class="target">rất</span> muốn!
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">very</div>
+            <div class="part-of-speech">adverb</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              <span class="target">Very</span> nice to meet you.
+            </div>
+            <div class="example">
+              I would <span class="target">very</span> much like to!
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 5: vui / happy, pleased -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">vui</div>
+            <div class="part-of-speech">tính từ</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Rất <span class="target">vui</span> được gặp bạn.
+            </div>
+            <div class="example">
+              <span class="target">Vui</span> được gặp cậu nhé.
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">happy, pleased</div>
+            <div class="part-of-speech">adjective</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Very <span class="target">pleased</span> to meet you.
+            </div>
+            <div class="example">
+              <span class="target">Nice</span> to meet you.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 6: được / to get, to be able -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">được</div>
+            <div class="part-of-speech">động từ</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Rất vui <span class="target">được</span> gặp bạn.
+            </div>
+            <div class="example">
+              <span class="target">Được</span>. Chúng ta gặp nhau ở đây.
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">get to, able, okay</div>
+            <div class="part-of-speech">verb</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Nice <span class="target">to</span> meet you.
+            </div>
+            <div class="example">
+              <span class="target">Sure</span>. We meet here.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 7: đang / -ing (progressive marker) -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">đang</div>
+            <div class="part-of-speech">trạng từ</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Tôi <span class="target">đang</span> học tiếng Việt.
+            </div>
+            <div class="example">
+              Bạn <span class="target">đang</span> học tiếng Anh phải không?
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">-ing</div>
+            <div class="part-of-speech">progressive marker</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              I am <span class="target">learn</span><span class="target">ing</span> Vietnamese.
+            </div>
+            <div class="example">
+              You are <span class="target">learn</span><span class="target">ing</span> English, right?
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 8: phải không / right?, aren't you? -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">phải không</div>
+            <div class="part-of-speech">ngữ khí từ</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Bạn đang học tiếng Việt <span class="target">phải không</span>?
+            </div>
+            <div class="example">
+              Cậu thích ăn phở <span class="target">phải không</span>?
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">right?, aren't you?</div>
+            <div class="part-of-speech">question tag (formal)</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              You're learning Vietnamese, <span class="target">aren't you</span>?
+            </div>
+            <div class="example">
+              You like phở, <span class="target">right</span>?
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 9: vâng / yes (formal) -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">vâng</div>
+            <div class="part-of-speech">thán từ</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              <span class="target">Vâng</span>, đúng rồi.
+            </div>
+            <div class="example">
+              <span class="target">Vâng</span>, tôi rất muốn!
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">yes</div>
+            <div class="part-of-speech">interjection (formal)</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              <span class="target">Yes</span>, that's right.
+            </div>
+            <div class="example">
+              <span class="target">Yes</span>, I would love to!
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 10: đúng rồi / that's right, correct -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">đúng rồi</div>
+            <div class="part-of-speech">cụm từ</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Vâng, <span class="target">đúng rồi</span>.
+            </div>
+            <div class="example">
+              Ừ, <span class="target">đúng rồi</span>.
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">that's right, correct</div>
+            <div class="part-of-speech">phrase</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Yes, <span class="target">that's right</span>.
+            </div>
+            <div class="example">
+              Yeah, <span class="target">that's right</span>.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Page 2 -->
+    <div class="page">
+      <!-- Card 11: còn / and, how about -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">còn</div>
+            <div class="part-of-speech">liên từ</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              <span class="target">Còn</span> bạn?
+            </div>
+            <div class="example">
+              <span class="target">Còn</span> cậu đang học tiếng Anh à?
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">and, how about</div>
+            <div class="part-of-speech">conjunction</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              <span class="target">And</span> you?
+            </div>
+            <div class="example">
+              <span class="target">And</span> you're learning English?
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 12: à / ? (informal question tag) -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">à</div>
+            <div class="part-of-speech">ngữ khí từ</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Cậu đang học tiếng Anh <span class="target">à</span>?
+            </div>
+            <div class="example">
+              Bạn thích phở <span class="target">à</span>?
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">?, right?</div>
+            <div class="part-of-speech">question tag (informal)</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              You're learning English<span class="target">?</span>
+            </div>
+            <div class="example">
+              You like phở<span class="target">?</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 13: muốn / want -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">muốn</div>
+            <div class="part-of-speech">động từ</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Bạn có <span class="target">muốn</span> làm đối tác không?
+            </div>
+            <div class="example">
+              Tôi rất <span class="target">muốn</span>!
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">want</div>
+            <div class="part-of-speech">verb</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Do you <span class="target">want</span> to be partners?
+            </div>
+            <div class="example">
+              I would love to!
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 14: làm / do, make -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">làm</div>
+            <div class="part-of-speech">động từ</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Bạn có muốn <span class="target">làm</span> đối tác không?
+            </div>
+            <div class="example">
+              Cậu <span class="target">làm</span> gì?
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">do, make, be</div>
+            <div class="part-of-speech">verb</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Do you want to <span class="target">be</span> partners?
+            </div>
+            <div class="example">
+              What do you <span class="target">do</span>?
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 15: với / with -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">với</div>
+            <div class="part-of-speech">giới từ</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Làm đối tác <span class="target">với</span> tôi.
+            </div>
+            <div class="example">
+              Gặp <span class="target">với</span> bạn.
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">with</div>
+            <div class="part-of-speech">preposition</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Be partners <span class="target">with</span> me.
+            </div>
+            <div class="example">
+              Meet <span class="target">with</span> you.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 16: không / no, not -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">không</div>
+            <div class="part-of-speech">phó từ</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Bạn có muốn <span class="target">không</span>?
+            </div>
+            <div class="example">
+              Tôi <span class="target">không</span> hiểu.
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">no, not, ?</div>
+            <div class="part-of-speech">adverb/particle</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Do you want to<span class="target">?</span>
+            </div>
+            <div class="example">
+              I do<span class="target">n't</span> understand.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 17: ừ / yeah (informal yes) -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">ừ</div>
+            <div class="part-of-speech">thán từ</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              <span class="target">Ừ</span>, đúng rồi.
+            </div>
+            <div class="example">
+              <span class="target">Ừ</span>, mình rất muốn!
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">yeah, uh-huh</div>
+            <div class="part-of-speech">interjection (informal)</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              <span class="target">Yeah</span>, that's right.
+            </div>
+            <div class="example">
+              <span class="target">Yeah</span>, I'd love to!
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 18: nhau / each other -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">nhau</div>
+            <div class="part-of-speech">đại từ</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Chúng ta gặp <span class="target">nhau</span>.
+            </div>
+            <div class="example">
+              Gặp <span class="target">nhau</span> mỗi tuần.
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">each other</div>
+            <div class="part-of-speech">pronoun</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              We meet <span class="target">each other</span>.
+            </div>
+            <div class="example">
+              Meet <span class="target">each other</span> every week.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 19: mỗi / each, every -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">mỗi</div>
+            <div class="part-of-speech">định từ</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Gặp nhau <span class="target">mỗi</span> tuần.
+            </div>
+            <div class="example">
+              Tôi học <span class="target">mỗi</span> tuần.
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">each, every</div>
+            <div class="part-of-speech">determiner</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Meet <span class="target">each</span> week.
+            </div>
+            <div class="example">
+              I study <span class="target">every</span> week.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 20: ở / at, in (location) -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">ở</div>
+            <div class="part-of-speech">giới từ</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Gặp nhau <span class="target">ở</span> đây.
+            </div>
+            <div class="example">
+              Tôi <span class="target">ở</span> Việt Nam.
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">at, in</div>
+            <div class="part-of-speech">preposition</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Meet <span class="target">at</span> here.
+            </div>
+            <div class="example">
+              I am <span class="target">in</span> Vietnam.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Page 3 -->
+    <div class="page">
+      <!-- Card 21: đây / here -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">đây</div>
+            <div class="part-of-speech">đại từ chỉ định</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Gặp nhau ở <span class="target">đây</span>.
+            </div>
+            <div class="example">
+              Cái <span class="target">này</span> là gì?
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">here, this</div>
+            <div class="part-of-speech">demonstrative</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Meet <span class="target">here</span>.
+            </div>
+            <div class="example">
+              What is <span class="target">this</span>?
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 22: vào / on, at (time) -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">vào</div>
+            <div class="part-of-speech">giới từ</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Gặp nhau <span class="target">vào</span> thứ Bảy.
+            </div>
+            <div class="example">
+              <span class="target">Vào</span> buổi sáng.
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">on, at</div>
+            <div class="part-of-speech">preposition (time)</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Meet <span class="target">on</span> Saturday.
+            </div>
+            <div class="example">
+              <span class="target">In</span> the morning.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 23: thứ Bảy / Saturday -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">thứ Bảy</div>
+            <div class="part-of-speech">danh từ</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Gặp nhau vào <span class="target">thứ Bảy</span>.
+            </div>
+            <div class="example">
+              <span class="target">Thứ Bảy</span> này bạn rảnh không?
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">Saturday</div>
+            <div class="part-of-speech">noun</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Meet on <span class="target">Saturday</span>.
+            </div>
+            <div class="example">
+              Are you free this <span class="target">Saturday</span>?
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 24: nhé / (friendly particle) -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">nhé</div>
+            <div class="part-of-speech">ngữ khí từ</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Vui được gặp cậu <span class="target">nhé</span>.
+            </div>
+            <div class="example">
+              Chúng ta gặp nhau <span class="target">nhé</span>!
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">okay?, alright?</div>
+            <div class="part-of-speech">particle (friendly)</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Nice to meet you<span class="target">!</span>
+            </div>
+            <div class="example">
+              Let's meet, <span class="target">okay</span>!
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

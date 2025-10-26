@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Flashcards - Bài học 01 - Pronouns</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      @page {
+        size: A4 landscape;
+        margin: 0;
+      }
+
+      body {
+        font-family: Arial, sans-serif;
+        background: white;
+      }
+
+      .page {
+        width: 297mm;
+        height: 210mm;
+        padding: 11mm;
+        page-break-after: always;
+        display: grid;
+        grid-template-columns: repeat(2, 137.5mm);
+        grid-template-rows: repeat(5, 37.6mm);
+        gap: 0;
+      }
+
+      .card {
+        width: 137.5mm;
+        height: 37.6mm;
+        border: 1px solid #ddd;
+        display: flex;
+        position: relative;
+      }
+
+      .card-half {
+        width: 68.75mm;
+        height: 37.6mm;
+        padding: 3mm;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+      }
+
+      .fold-line {
+        position: absolute;
+        left: 68.75mm;
+        top: 0;
+        bottom: 0;
+        width: 0;
+        border-left: 1px dashed #999;
+      }
+
+      /* Vietnamese side (left half) */
+      .vietnamese-side {
+        border-right: 1px dashed #999;
+      }
+
+      /* English side (right half) */
+      .english-side {
+      }
+
+      .main-word {
+        font-size: 18pt;
+        font-weight: bold;
+        margin-bottom: 1.5mm;
+        line-height: 1.2;
+      }
+
+      .vietnamese-side .main-word {
+        font-family: Arial, sans-serif;
+      }
+
+      .english-side .main-word {
+        font-family: Georgia, serif;
+      }
+
+      .part-of-speech {
+        font-size: 8pt;
+        font-style: italic;
+        color: #666;
+        margin-bottom: 2mm;
+      }
+
+      .examples {
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
+        gap: 1.5mm;
+      }
+
+      .example {
+        font-size: 8pt;
+        line-height: 1.3;
+      }
+
+      .example .target {
+        font-weight: bold;
+      }
+
+      .variants {
+        font-size: 7pt;
+        color: #888;
+        margin-top: 2mm;
+        font-style: italic;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="page">
+      <!-- Card 1: tôi / I, me (formal) -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">tôi</div>
+            <div class="part-of-speech">đại từ nhân xưng</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              <span class="target">Tôi</span> là An.
+            </div>
+            <div class="example">
+              <span class="target">Tôi</span> đang học tiếng Việt.
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">I, me</div>
+            <div class="part-of-speech">pronoun (formal)</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              <span class="target">I</span> am An.
+            </div>
+            <div class="example">
+              <span class="target">I</span> am learning Vietnamese.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 2: bạn / you (formal) -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">bạn</div>
+            <div class="part-of-speech">đại từ nhân xưng</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Rất vui được gặp <span class="target">bạn</span>.
+            </div>
+            <div class="example">
+              <span class="target">Bạn</span> đang học tiếng Anh phải không?
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">you</div>
+            <div class="part-of-speech">pronoun (formal)</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Nice to meet <span class="target">you</span>.
+            </div>
+            <div class="example">
+              <span class="target">You</span> are learning English, aren't you?
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 3: mình / I, me (informal) -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">mình</div>
+            <div class="part-of-speech">đại từ nhân xưng</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              <span class="target">Mình</span> là Ben.
+            </div>
+            <div class="example">
+              <span class="target">Mình</span> rất muốn!
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">I, me</div>
+            <div class="part-of-speech">pronoun (informal)</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              <span class="target">I</span> am Ben.
+            </div>
+            <div class="example">
+              <span class="target">I</span> would love to!
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 4: cậu / you (informal) -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">cậu</div>
+            <div class="part-of-speech">đại từ nhân xưng</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Vui được gặp <span class="target">cậu</span> nhé.
+            </div>
+            <div class="example">
+              <span class="target">Cậu</span> đang học tiếng Việt phải không?
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">you</div>
+            <div class="part-of-speech">pronoun (informal)</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              Nice to meet <span class="target">you</span>.
+            </div>
+            <div class="example">
+              <span class="target">You</span> are learning Vietnamese, right?
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 5: chúng ta / we (formal/inclusive) -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">chúng ta</div>
+            <div class="part-of-speech">đại từ nhân xưng</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              <span class="target">Chúng ta</span> có thể gặp nhau mỗi tuần.
+            </div>
+            <div class="example">
+              <span class="target">Chúng ta</span> gặp nhau ở đây.
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">we</div>
+            <div class="part-of-speech">pronoun (formal)</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              <span class="target">We</span> can meet each week.
+            </div>
+            <div class="example">
+              <span class="target">We</span> meet here.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 6: chúng mình / we (informal) -->
+      <div class="card">
+        <div class="card-half vietnamese-side">
+          <div>
+            <div class="main-word">chúng mình</div>
+            <div class="part-of-speech">đại từ nhân xưng</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              <span class="target">Chúng mình</span> có thể gặp nhau mỗi tuần.
+            </div>
+            <div class="example">
+              <span class="target">Chúng mình</span> gặp nhau ở đây.
+            </div>
+          </div>
+        </div>
+        <div class="card-half english-side">
+          <div>
+            <div class="main-word">we</div>
+            <div class="part-of-speech">pronoun (informal)</div>
+          </div>
+          <div class="examples">
+            <div class="example">
+              <span class="target">We</span> can meet each week.
+            </div>
+            <div class="example">
+              <span class="target">We</span> meet here.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
