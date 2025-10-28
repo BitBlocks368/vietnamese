@@ -4,74 +4,59 @@
 **Bối cảnh - Context:** Gặp gỡ tại quán cà phê - Meeting at a café
 **Cấp độ - Level:** Người mới bắt đầu - Beginner
 
----
-
 ## Từ vựng chính - Key Vocabulary
 
-| Tiếng Việt                | English                   |
-| ------------------------- | ------------------------- |
-| đối tác trao đổi ngôn ngữ | language exchange partner |
-| học                       | to learn, to study        |
-| luyện tập                 | to practice               |
-| tiếng Việt                | Vietnamese language       |
-| tiếng Anh                 | English language          |
-| có thể                    | can, to be able to        |
-| giúp                      | to help                   |
-| gặp                       | to meet                   |
-| tuần                      | week                      |
-| thích                     | to like                   |
+### Viết tắt từ loại - Parts of Speech Abbreviations
 
----
+| Tiếng Việt                           | English                                     |
+|:-------------------------------------|:--------------------------------------------|
+| **dt** - danh từ                     | **n** - noun                               |
+| **đt** - động từ                     | **v** - verb                               |
+| **tt** - tính từ                     | **adj** - adjective                        |
+| **ttv** - trạng từ                   | **adv** - adverb                           |
+| **đtm** - động từ khuyết thiếu       | **aux** - auxiliary verb                   |
+| **ctừ** - cụm từ                     | **phr** - phrase                           |
+
+| Tiếng Việt                           | English                                     |
+|:-------------------------------------|:--------------------------------------------|
+| đối tác (dt)                        | language (n)                               |
+| trao đổi (đt)                       | exchange (n/v)                             |
+| ngôn ngữ (dt)                       | partner (n)                                |
+| học (đt)                            | learn, study (v)                           |
+| luyện tập (đt)                      | practice (v)                               |
+| tiếng Việt (dt)                     | Vietnamese language (n)                    |
+| tiếng Anh (dt)                      | English language (n)                       |
+| có thể (đtm)                        | can, be able (aux)                         |
+| giúp (đt)                           | help (v)                                   |
+| gặp (đt)                            | meet (v)                                   |
+| tuần (dt)                           | week (n)                                   |
+| thích (đt)                          | like (v)                                   |
 
 ## Hội thoại mẫu - Sample Dialogue
 
 ### Phiên bản lịch sự - Formal Version
 
-**An:** Xin chào! Tôi là An. Rất vui được gặp bạn.
-**An:** Hello! I'm An. Nice to meet you.
-
-**Ben:** Xin chào An! Tôi là Ben. Rất vui được gặp bạn.
-**Ben:** Hello An! I'm Ben. Nice to meet you.
-
-**An:** Bạn đang học tiếng Việt phải không?
-**An:** You're learning Vietnamese, aren't you?
-
-**Ben:** Vâng, đúng rồi. Tôi đang học tiếng Việt. Còn bạn đang học tiếng Anh phải không?
-**Ben:** Yes, that's right. I'm learning Vietnamese. And you're learning English, aren't you?
-
-**An:** Vâng. Bạn có muốn làm đối tác trao đổi ngôn ngữ với tôi không?
-**An:** Yes. Would you like to be language exchange partners with me?
-
-**Ben:** Vâng, tôi rất muốn! Chúng ta có thể gặp nhau mỗi tuần được không?
-**Ben:** Yes, I would love to! Can we meet each week?
-
-**An:** Được. Chúng ta có thể gặp nhau ở đây vào thứ Bảy.
-**An:** Sure. We can meet here on Saturdays.
+| Tiếng Việt                           | English                                     |
+|:-------------------------------------|:--------------------------------------------|
+| **An:** Xin chào! Tôi là An. Rất vui được gặp bạn. | **An:** Hello! I'm An. Nice to meet you. |
+| **Ben:** Xin chào An! Tôi là Ben. Rất vui được gặp bạn. | **Ben:** Hello An! I'm Ben. Nice to meet you. |
+| **An:** Bạn đang học tiếng Việt phải không? | **An:** You're learning Vietnamese, aren't you? |
+| **Ben:** Vâng, đúng rồi. Tôi đang học tiếng Việt. Còn bạn đang học tiếng Anh phải không? | **Ben:** Yes, that's right. I'm learning Vietnamese. And you're learning English, aren't you? |
+| **An:** Vâng. Bạn có muốn làm đối tác trao đổi ngôn ngữ với tôi không? | **An:** Yes. Would you like to be language exchange partners with me? |
+| **Ben:** Vâng, tôi rất muốn! Chúng ta có thể gặp nhau mỗi tuần được không? | **Ben:** Yes, I would love to! Can we meet each week? |
+| **An:** Được. Chúng ta có thể gặp nhau ở đây vào thứ Bảy. | **An:** Sure. We can meet here on Saturdays. |
 
 ### Phiên bản thân mật - Informal Version
 
-**An:** Chào! Mình là An. Vui được gặp cậu nhé.
-**An:** Hi! I'm An. Nice to meet you.
-
-**Ben:** Chào An! Mình là Ben. Vui được gặp cậu.
-**Ben:** Hi An! I'm Ben. Nice to meet you.
-
-**An:** Cậu đang học tiếng Việt phải không?
-**An:** You're learning Vietnamese, right?
-
-**Ben:** Ừ, đúng rồi. Mình đang học tiếng Việt. Còn cậu đang học tiếng Anh à?
-**Ben:** Yeah, that's right. I'm learning Vietnamese. And you're learning English?
-
-**An:** Ừ. Cậu có muốn làm đối tác trao đổi ngôn ngữ với mình không?
-**An:** Yeah. Do you want to be language exchange partners with me?
-
-**Ben:** Ừ, mình rất muốn! Chúng mình có thể gặp nhau mỗi tuần được không?
-**Ben:** Yeah, I'd love to! Can we meet each week?
-
-**An:** Được. Chúng mình có thể gặp nhau ở đây vào thứ Bảy.
-**An:** Sure. We can meet here on Saturdays.
-
----
+| Tiếng Việt                           | English                                     |
+|:-------------------------------------|:--------------------------------------------|
+| **An:** Chào! Mình là An. Vui được gặp cậu nhé. | **An:** Hi! I'm An. Nice to meet you. |
+| **Ben:** Chào An! Mình là Ben. Vui được gặp cậu. | **Ben:** Hi An! I'm Ben. Nice to meet you. |
+| **An:** Cậu đang học tiếng Việt phải không? | **An:** You're learning Vietnamese, right? |
+| **Ben:** Ừ, đúng rồi. Mình đang học tiếng Việt. Còn cậu đang học tiếng Anh à? | **Ben:** Yeah, that's right. I'm learning Vietnamese. And you're learning English? |
+| **An:** Ừ. Cậu có muốn làm đối tác trao đổi ngôn ngữ với mình không? | **An:** Yeah. Do you want to be language exchange partners with me? |
+| **Ben:** Ừ, mình rất muốn! Chúng mình có thể gặp nhau mỗi tuần được không? | **Ben:** Yeah, I'd love to! Can we meet each week? |
+| **An:** Được. Chúng mình có thể gặp nhau ở đây vào thứ Bảy. | **An:** Sure. We can meet here on Saturdays. |
 
 ## Ghi chú ngữ pháp - Grammar Notes
 
@@ -110,8 +95,6 @@ Ví dụ - Examples:
 - Bạn **có muốn** làm đối tác **không?** = Do you want to be partners?
 - Chúng ta **có thể** gặp nhau **không?** = Can we meet?
 
----
-
 ## Mẹo văn hóa - Cultural Tips
 
 ### Lịch sự và khoảng cách xã hội - Politeness and Social Distance
@@ -127,8 +110,6 @@ Ví dụ - Examples:
 
 3. **Kiên nhẫn với ngôn ngữ - Be patient with language**
    - Đừng ngại mắc lỗi - Don't be afraid to make mistakes
-
----
 
 ## Bài tập - Practice Exercises
 
@@ -171,14 +152,9 @@ Dịch những câu sau sang tiếng Việt (lịch sự) - Translate the follow
 
 1. Nice to meet you!
 
-   ***
-
 2. I'm learning Vietnamese.
 
-   ***
-
 3. Would you like to be language exchange partners?
-   ***
 
 **Đáp án - Answers:**
 
@@ -192,14 +168,9 @@ Dịch những câu sau sang tiếng Anh - Translate the following sentences to 
 
 1. Tôi đang học tiếng Anh.
 
-   ***
-
 2. Chúng ta có thể gặp nhau mỗi tuần được không?
 
-   ***
-
 3. Bạn có thể giúp tôi luyện tập được không?
-   ***
 
 **Đáp án - Answers:**
 
@@ -207,14 +178,12 @@ Dịch những câu sau sang tiếng Anh - Translate the following sentences to 
 2. Can we meet each week?
 3. Can you help me practice?
 
----
-
 ## Cụm từ bổ sung - Additional Phrases
 
 ### Hữu ích cho buổi gặp đầu tiên - Useful for First Meeting
 
 | Tiếng Việt                           | English                                     |
-| ------------------------------------ | ------------------------------------------- |
+|:-------------------------------------|:--------------------------------------------|
 | Bạn học tiếng Việt được bao lâu rồi? | How long have you been learning Vietnamese? |
 | Tôi mới bắt đầu học.                 | I just started learning.                    |
 | Tôi học được khoảng 3 tháng rồi.     | I've been learning for about 3 months.      |
@@ -223,8 +192,6 @@ Dịch những câu sau sang tiếng Anh - Translate the following sentences to 
 | Bạn có thể lặp lại được không?       | Can you repeat that?                        |
 | Cái này tiếng Việt là gì?            | What is this in Vietnamese?                 |
 | Cái này tiếng Anh là gì?             | What is this in English?                    |
-
----
 
 ## Tóm tắt - Summary
 
@@ -239,7 +206,5 @@ Trong bài học này, bạn đã học - In this lesson, you learned:
 **Lời khuyên cho lần học tiếp theo - Tip for next session:**
 Luyện tập hội thoại với đối tác của bạn. Thay đổi giữa lịch sự và thân mật!
 Practice the dialogue with your partner. Switch between formal and informal!
-
----
 
 **Chúc bạn học tốt! - Happy learning!**

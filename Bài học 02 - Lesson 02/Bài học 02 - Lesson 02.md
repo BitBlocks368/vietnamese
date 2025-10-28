@@ -4,91 +4,56 @@
 **Bối cảnh - Context:** Tại nhà hàng Việt Nam - At a Vietnamese restaurant
 **Cấp độ - Level:** Người mới bắt đầu - Beginner
 
----
-
 ## Từ vựng chính - Key Vocabulary
 
-| Tiếng Việt     | English                    |
-| -------------- | -------------------------- |
-| đồ ăn / món ăn | food / dish                |
-| thích          | to like                    |
-| không thích    | to not like / dislike      |
-| yêu thích      | to love (favorite)         |
-| ghét           | to hate                    |
-| ngon           | delicious                  |
-| dở             | bad/not good (taste)       |
-| cay            | spicy                      |
-| ngọt           | sweet                      |
-| mặn            | salty                      |
-| chua           | sour                       |
-| đói            | hungry                     |
-| khát           | thirsty                    |
-| ăn             | to eat                     |
-| uống           | to drink                   |
-
----
+| Tiếng Việt                           | English                                     |
+|:-------------------------------------|:--------------------------------------------|
+| đồ ăn (dt)                           | food (n)                                   |
+| món ăn (dt)                          | dish (n)                                   |
+| thích (đt)                           | like (v)                                   |
+| không thích (đt)                     | dislike (v)                                |
+| yêu thích (đt)                       | love (v)                                   |
+| ghét (đt)                            | hate (v)                                   |
+| ngon (tt)                            | delicious (adj)                            |
+| dở (tt)                              | bad, not good (adj)                        |
+| cay (tt)                             | spicy (adj)                                |
+| ngọt (tt)                            | sweet (adj)                                |
+| mặn (tt)                             | salty (adj)                                |
+| chua (tt)                            | sour (adj)                                 |
+| đói (tt)                             | hungry (adj)                               |
+| khát (tt)                            | thirsty (adj)                              |
+| ăn (đt)                              | eat (v)                                    |
+| uống (đt)                            | drink (v)                                  |
 
 ## Hội thoại mẫu - Sample Dialogue
 
 ### Phiên bản lịch sự - Formal Version
 
-**An:** Bạn đói chưa?
-**An:** Are you hungry yet?
-
-**Ben:** Vâng, tôi đói lắm. Còn bạn?
-**Ben:** Yes, I'm very hungry. And you?
-
-**An:** Tôi cũng đói. Bạn thích đồ ăn Việt Nam gì?
-**An:** I'm also hungry. What Vietnamese food do you like?
-
-**Ben:** Tôi thích phở lắm, nhưng tôi không thích đồ ăn cay. Còn bạn?
-**Ben:** I like phở a lot, but I don't like spicy food. And you?
-
-**An:** Tôi yêu thích bún bò Huế, nhưng món đó rất cay. Bạn có muốn thử bún chả không? Món đó không cay.
-**An:** I love bún bò Huế, but that dish is very spicy. Do you want to try bún chả? That dish is not spicy.
-
-**Ben:** Vâng, được. Bún chả ngon không?
-**Ben:** Yes, okay. Is bún chả delicious?
-
-**An:** Rất ngon! Bạn thích uống gì?
-**An:** Very delicious! What do you like to drink?
-
-**Ben:** Tôi thích cà phê sữa đá. Còn bạn?
-**Ben:** I like iced milk coffee. And you?
-
-**An:** Tôi thích trà đá. Chúng ta gọi món nhé!
-**An:** I like iced tea. Let's order!
+| Tiếng Việt                           | English                                     |
+|:-------------------------------------|:--------------------------------------------|
+| **An:** Bạn đói chưa? | **An:** Are you hungry yet? |
+| **Ben:** Vâng, tôi đói lắm. Còn bạn? | **Ben:** Yes, I'm very hungry. And you? |
+| **An:** Tôi cũng đói. Bạn thích đồ ăn Việt Nam gì? | **An:** I'm also hungry. What Vietnamese food do you like? |
+| **Ben:** Tôi thích phở lắm, và tôi thích đồ ăn cay, nhưng tôi không thích đồ ăn mặn. Còn bạn? | **Ben:** I like phở a lot, and I like spicy food, but I don't like salty food. And you? |
+| **An:** Tôi yêu thích bún bò Huế, nhưng món đó rất cay. Bạn có muốn thử không? | **An:** I love bún bò Huế, but that dish is very spicy. Do you want to try it? |
+| **Ben:** Vâng, được. Bún bò Huế ngon không? | **Ben:** Yes, okay. Is bún bò Huế delicious? |
+| **An:** Rất ngon! Bạn thích uống gì? | **An:** Very delicious! What do you like to drink? |
+| **Ben:** Tôi thích cà phê sữa đá. Còn bạn? | **Ben:** I like iced milk coffee. And you? |
+| **An:** Tôi thích trà đá. Chúng ta gọi món nhé! | **An:** I like iced tea. Let's order! |
 
 ### Phiên bản thân mật - Informal Version
 
-**An:** Cậu đói chưa?
-**An:** Are you hungry yet?
-
-**Ben:** Ừ, mình đói lắm. Còn cậu?
-**Ben:** Yeah, I'm very hungry. And you?
-
-**An:** Mình cũng đói. Cậu thích đồ ăn Việt Nam gì?
-**An:** I'm also hungry. What Vietnamese food do you like?
-
-**Ben:** Mình thích phở lắm, nhưng mình không thích đồ ăn cay. Còn cậu?
-**Ben:** I like phở a lot, but I don't like spicy food. And you?
-
-**An:** Mình yêu thích bún bò Huế, nhưng món đó rất cay. Cậu có muốn thử bún chả không? Món đó không cay.
-**An:** I love bún bò Huế, but that dish is very spicy. Do you want to try bún chả? That dish is not spicy.
-
-**Ben:** Ừ, được. Bún chả ngon không?
-**Ben:** Yeah, okay. Is bún chả delicious?
-
-**An:** Rất ngon! Cậu thích uống gì?
-**An:** Very delicious! What do you like to drink?
-
-**Ben:** Mình thích cà phê sữa đá. Còn cậu?
-**Ben:** I like iced milk coffee. And you?
-
-**An:** Mình thích trà đá. Chúng mình gọi món nhé!
-**An:** I like iced tea. Let's order!
-
----
+| Tiếng Việt                           | English                                     |
+|:-------------------------------------|:--------------------------------------------|
+| **An:** Cậu đói chưa? | **An:** Are you hungry yet? |
+| **Ben:** Ừ, mình đói lắm. Còn cậu? | **Ben:** Yeah, I'm very hungry. And you? |
+| **An:** Mình cũng đói. Cậu thích đồ ăn Việt Nam gì? | **An:** I'm also hungry. What Vietnamese food do you like? |
+| **Ben:** Mình thích phở lắm, và mình thích đồ ăn cay, nhưng mình không thích đồ ăn mặn. Còn cậu? | **Ben:** I like phở a lot, and I like spicy food, but I don't like salty food. And you? |
+| **An:** Mình yêu thích bún bò Huế, nhưng món đó rất cay. Cậu có muốn thử không? | **An:** I love bún bò Huế, but that dish is very spicy. Do you want to try it? |
+| **Ben:** Ừ, được. Bún bò Huế ngon không? | **Ben:** Yeah, okay. Is bún bò Huế delicious? |
+| **An:** Rất ngon! Cậu thích uống gì? | **An:** Very delicious! What do you like to drink? |
+| **Ben:** Mình thích cà phê sữa đá. Còn cậu? | **Ben:** I like iced milk coffee. And you? |
+| **An:** Mình thích trà đá. Chúng mình gọi món nhé! | **An:** I like iced tea. Let's order! |
 
 ## Ghi chú ngữ pháp - Grammar Notes
 
@@ -100,11 +65,11 @@ I like phở.
 
 **Phân tích từ - Word Breakdown:**
 
-| Tiếng Việt | English | Part of Speech |
-| ---------- | ------- | -------------- |
-| Tôi        | I       | Pronoun        |
-| thích      | like    | Verb           |
-| phở        | phở     | Noun           |
+| Tiếng Việt                           | English                                     |
+|:-------------------------------------|:--------------------------------------------|
+| Tôi (đtư)                           | I (pron)                                   |
+| thích (đt)                          | like (v)                                   |
+| phở (dt)                              | phở (n)                                   |
 
 **Giải thích - Explanation:**
 
@@ -129,11 +94,11 @@ This dish is very delicious!
 
 **Phân tích từ - Word Breakdown:**
 
-| Tiếng Việt | English      | Part of Speech |
-| ---------- | ------------ | -------------- |
-| Món này    | This dish    | Noun phrase    |
-| rất        | very         | Adverb         |
-| ngon       | delicious    | Adjective      |
+| Tiếng Việt                           | English                                     |
+|:-------------------------------------|:--------------------------------------------|
+| Món này (ctừ)                        | This dish (phr)                            |
+| rất (ttv)                             | very (adv)                                 |
+| ngon (tt)                            | delicious (adj)                            |
 
 **Giải thích - Explanation:**
 
@@ -157,12 +122,12 @@ What do you like to eat?
 
 **Phân tích từ - Word Breakdown:**
 
-| Tiếng Việt | English  | Part of Speech   |
-| ---------- | -------- | ---------------- |
-| Bạn        | You      | Pronoun          |
-| thích      | like     | Verb             |
-| ăn         | to eat   | Verb             |
-| gì         | what     | Question word    |
+| Tiếng Việt                           | English                                     |
+|:-------------------------------------|:--------------------------------------------|
+| Bạn (đtư)                           | You (pron)                                 |
+| thích (đt)                          | like (v)                                   |
+| ăn (đt)                              | eat (v)                                    |
+| gì (từ hỏi)                         | what (q)                                   |
 
 **Giải thích - Explanation:**
 
@@ -175,8 +140,6 @@ Ví dụ thêm - More examples:
 - Bạn muốn ăn **gì**? = What do you want to eat?
 - Món này là **gì**? = What is this dish?
 - Cái này tiếng Việt là **gì**? = What is this in Vietnamese?
-
----
 
 ## Mẹo văn hóa - Cultural Tips
 
@@ -206,8 +169,6 @@ Ví dụ thêm - More examples:
    - Dùng đũa và thìa - Use chopsticks and spoon
    - Nói "Chúc ngon miệng!" trước khi ăn - Say "Enjoy your meal!" before eating
    - Nói "Cảm ơn!" sau bữa ăn - Say "Thank you!" after the meal
-
----
 
 ## Bài tập - Practice Exercises
 
@@ -250,14 +211,9 @@ Dịch những câu sau sang tiếng Việt (lịch sự) - Translate the follow
 
 1. I like Vietnamese food.
 
-   ***
-
 2. Is this dish spicy?
 
-   ***
-
 3. What do you want to eat?
-   ***
 
 **Đáp án - Answers:**
 
@@ -271,14 +227,9 @@ Dịch những câu sau sang tiếng Anh - Translate the following sentences to 
 
 1. Tôi không thích đồ ăn cay.
 
-   ***
-
 2. Món này rất ngon!
 
-   ***
-
 3. Bạn thích uống gì?
-   ***
 
 **Đáp án - Answers:**
 
@@ -286,14 +237,12 @@ Dịch những câu sau sang tiếng Anh - Translate the following sentences to 
 2. This dish is very delicious!
 3. What do you like to drink?
 
----
-
 ## Cụm từ bổ sung - Additional Phrases
 
 ### Hữu ích cho nhà hàng - Useful for Restaurants
 
-| Tiếng Việt                   | English                          |
-| ---------------------------- | -------------------------------- |
+| Tiếng Việt                           | English                                     |
+|:-------------------------------------|:--------------------------------------------|
 | Bạn muốn ăn gì?              | What do you want to eat?         |
 | Tôi đói quá!                 | I'm so hungry!                   |
 | Tôi khát nước.               | I'm thirsty.                     |
@@ -305,9 +254,7 @@ Dịch những câu sau sang tiếng Anh - Translate the following sentences to 
 | Bao nhiêu tiền?              | How much is it?                  |
 | Món đặc sản là gì?           | What is the specialty dish?      |
 | Tôi ăn chay.                 | I'm vegetarian.                  |
-| Không cay giúp tôi.          | Not spicy, please.               |
-
----
+| Không cay giúp tôi.                  | Not spicy, please.                         |
 
 ## Tóm tắt - Summary
 
@@ -323,7 +270,5 @@ Trong bài học này, bạn đã học - In this lesson, you learned:
 **Lời khuyên cho lần học tiếp theo - Tip for next session:**
 Đi ăn với đối tác của bạn! Luyện tập gọi món bằng tiếng Việt. Thử món mới!
 Go eat with your partner! Practice ordering in Vietnamese. Try new dishes!
-
----
 
 **Chúc ngon miệng! - Enjoy your meal!**

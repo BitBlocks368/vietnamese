@@ -4,97 +4,59 @@
 **Bối cảnh - Context:** Trên đường phố - On the street
 **Cấp độ - Level:** Người mới bắt đầu - Beginner
 
----
-
 ## Từ vựng chính - Key Vocabulary
 
-| Tiếng Việt           | English                      |
-| -------------------- | ---------------------------- |
-| đi thẳng             | go straight                  |
-| rẽ trái / quẹo trái  | turn left                    |
-| rẽ phải / quẹo phải  | turn right                   |
-| dừng lại             | stop                         |
-| quay lại             | turn around / go back        |
-| bên trái             | on the left                  |
-| bên phải             | on the right                 |
-| phía trước           | ahead / in front             |
-| phía sau             | behind                       |
-| gần                  | near / close                 |
-| xa                   | far                          |
-| đường                | road / street                |
-| ngã tư               | intersection / crossroads    |
-| đèn giao thông       | traffic light                |
-| ở đâu                | where                        |
-
----
+| Tiếng Việt                           | English                                     |
+|:-------------------------------------|:--------------------------------------------|
+| đi thẳng (đt)                       | go straight (v)                            |
+| rẽ trái (đt)                       | turn left (v)                              |
+| quẹo trái (đt)                      | turn left (v)                              |
+| rẽ phải (đt)                      | turn right (v)                             |
+| quẹo phải (đt)                     | turn right (v)                             |
+| dừng lại (đt)                      | stop (v)                                   |
+| quay lại (đt)                        | turn around, go back (v)                   |
+| bên trái (ctừ)                       | on the left (phr)                          |
+| bên phải (ctừ)                      | on the right (phr)                         |
+| phía trước (ctừ)                     | ahead, in front (phr)                      |
+| phía sau (ctừ)                        | behind (phr)                               |
+| gần (tt)                              | near, close (adj)                          |
+| xa (tt)                               | far (adj)                                  |
+| đường (dt)                          | road, street (n)                           |
+| ngã tư (dt)                          | intersection, crossroads (n)               |
+| đèn giao thông (dt)                 | traffic light (n)                          |
+| ở đâu (ctừ)                        | where (phr)                                |
 
 ## Hội thoại mẫu - Sample Dialogue
 
 ### Phiên bản lịch sự - Formal Version
 
-**Ben:** Xin lỗi, cho tôi hỏi. Quán cà phê ở đâu?
-**Ben:** Excuse me, may I ask. Where is the coffee shop?
-
-**An:** Quán cà phê nào? Có nhiều quán cà phê lắm.
-**An:** Which coffee shop? There are many coffee shops.
-
-**Ben:** Quán cà phê gần công viên.
-**Ben:** The coffee shop near the park.
-
-**An:** À, tôi biết rồi. Bạn đi thẳng đường này.
-**An:** Ah, I know now. You go straight on this road.
-
-**Ben:** Vâng.
-**Ben:** Yes.
-
-**An:** Ở đèn giao thông, bạn rẽ trái. Quán cà phê ở bên phải.
-**An:** At the traffic light, you turn left. The coffee shop is on the right.
-
-**Ben:** Đi thẳng, rồi rẽ trái ở đèn giao thông, ở bên phải phải không?
-**Ben:** Go straight, then turn left at the traffic light, on the right, correct?
-
-**An:** Vâng, đúng rồi. Không xa lắm.
-**An:** Yes, that's right. Not very far.
-
-**Ben:** Cảm ơn bạn rất nhiều!
-**Ben:** Thank you very much!
-
-**An:** Không có gì!
-**An:** You're welcome!
+| Tiếng Việt                           | English                                     |
+|:-------------------------------------|:--------------------------------------------|
+| **Ben:** Xin lỗi, cho tôi hỏi. Quán cà phê ở đâu? | **Ben:** Excuse me, may I ask. Where is the coffee shop? |
+| **An:** Quán cà phê nào? Có nhiều quán cà phê lắm. | **An:** Which coffee shop? There are many coffee shops. |
+| **Ben:** Quán cà phê gần công viên. | **Ben:** The coffee shop near the park. |
+| **An:** À, tôi biết rồi. Bạn đi thẳng đường này. | **An:** Ah, I know now. You go straight on this road. |
+| **Ben:** Vâng. | **Ben:** Yes. |
+| **An:** Ở đèn giao thông, bạn rẽ trái. Quán cà phê ở bên phải. | **An:** At the traffic light, you turn left. The coffee shop is on the right. |
+| **Ben:** Đi thẳng, rồi rẽ trái ở đèn giao thông, ở bên phải phải không? | **Ben:** Go straight, then turn left at the traffic light, on the right, correct? |
+| **An:** Vâng, đúng rồi. Không xa lắm. | **An:** Yes, that's right. Not very far. |
+| **Ben:** Cảm ơn bạn rất nhiều! | **Ben:** Thank you very much! |
+| **An:** Không có gì! | **An:** You're welcome! |
 
 ### Phiên bản thân mật - Informal Version
 
-**Ben:** Xin lỗi, cho mình hỏi. Quán cà phê ở đâu vậy?
-**Ben:** Excuse me, let me ask. Where is the coffee shop?
-
-**An:** Quán cà phê nào? Có nhiều quán cà phê lắm.
-**An:** Which coffee shop? There are many coffee shops.
-
-**Ben:** Quán cà phê gần công viên.
-**Ben:** The coffee shop near the park.
-
-**An:** À, mình biết rồi. Cậu đi thẳng đường này.
-**An:** Ah, I know now. You go straight on this road.
-
-**Ben:** Ừ.
-**Ben:** Yeah.
-
-**An:** Ở đèn giao thông, cậu rẽ trái. Quán cà phê ở bên phải.
-**An:** At the traffic light, you turn left. The coffee shop is on the right.
-
-**Ben:** Đi thẳng, rồi rẽ trái ở đèn giao thông, ở bên phải phải không?
-**Ben:** Go straight, then turn left at the traffic light, on the right, right?
-
-**An:** Ừ, đúng rồi. Không xa lắm.
-**An:** Yeah, that's right. Not very far.
-
-**Ben:** Cảm ơn cậu nhiều nhé!
-**Ben:** Thanks a lot!
-
-**An:** Không có gì!
-**An:** You're welcome!
-
----
+| Tiếng Việt                           | English                                     |
+|:-------------------------------------|:--------------------------------------------|
+| **Ben:** Xin lỗi, cho mình hỏi. Quán cà phê ở đâu vậy? | **Ben:** Excuse me, let me ask. Where is the coffee shop? |
+| **An:** Quán cà phê nào? Có nhiều quán cà phê lắm. | **An:** Which coffee shop? There are many coffee shops. |
+| **Ben:** Quán cà phê gần công viên. | **Ben:** The coffee shop near the park. |
+| **An:** À, mình biết rồi. Cậu đi thẳng đường này. | **An:** Ah, I know now. You go straight on this road. |
+| **Ben:** Ừ. | **Ben:** Yeah. |
+| **An:** Ở đèn giao thông, cậu rẽ trái. Quán cà phê ở bên phải. | **An:** At the traffic light, you turn left. The coffee shop is on the right. |
+| **Ben:** Đi thẳng, rồi rẽ trái ở đèn giao thông, ở bên phải phải không? | **Ben:** Go straight, then turn left at the traffic light, on the right, right? |
+| **An:** Ừ, đúng rồi. Không xa lắm. | **An:** Yeah, that's right. Not very far. |
+| **Ben:** Cảm ơn cậu nhiều nhé! | **Ben:** Thanks a lot! |
+| **An:** Không có gì! | **An:** You're welcome! |
 
 ## Ghi chú ngữ pháp - Grammar Notes
 
@@ -106,10 +68,10 @@ Go straight!
 
 **Phân tích từ - Word Breakdown:**
 
-| Tiếng Việt | English  | Part of Speech  |
-| ---------- | -------- | --------------- |
-| Đi         | Go       | Verb            |
-| thẳng      | straight | Adverb          |
+| Tiếng Việt                           | English                                     |
+|:-------------------------------------|:--------------------------------------------|
+| Đi (đt)                              | Go (v)                                     |
+| thẳng (ttv)                          | straight (adv)                             |
 
 **Giải thích - Explanation:**
 
@@ -135,11 +97,11 @@ The coffee shop is on the right.
 
 **Phân tích từ - Word Breakdown:**
 
-| Tiếng Việt  | English          | Part of Speech   |
-| ----------- | ---------------- | ---------------- |
-| Quán cà phê | Coffee shop      | Noun phrase      |
-| ở           | is located (at)  | Preposition/Verb |
-| bên phải    | on the right     | Location phrase  |
+| Tiếng Việt                           | English                                     |
+|:-------------------------------------|:--------------------------------------------|
+| Quán cà phê (ctừ)                    | Coffee shop (phr)                          |
+| ở (giới)                             | located (prep/v)                           |
+| bên phải (ctừ)                      | on the right (phr)                         |
 
 **Giải thích - Explanation:**
 
@@ -164,11 +126,11 @@ Where is the coffee shop?
 
 **Phân tích từ - Word Breakdown:**
 
-| Tiếng Việt  | English          | Part of Speech   |
-| ----------- | ---------------- | ---------------- |
-| Quán cà phê | Coffee shop      | Noun phrase      |
-| ở           | is located (at)  | Preposition/Verb |
-| đâu         | where            | Question word    |
+| Tiếng Việt                           | English                                     |
+|:-------------------------------------|:--------------------------------------------|
+| Quán cà phê (ctừ)                    | Coffee shop (phr)                          |
+| ở (giới)                             | located (prep/v)                           |
+| đâu (từ hỏi)                        | where (q)                                  |
 
 **Giải thích - Explanation:**
 
@@ -181,8 +143,6 @@ Ví dụ thêm - More examples:
 - Bến xe buýt **ở đâu**? = Where is the bus stop?
 - Bạn **ở đâu**? = Where are you?
 - Cậu đến từ **đâu**? = Where are you from?
-
----
 
 ## Mẹo văn hóa - Cultural Tips
 
@@ -213,8 +173,6 @@ Ví dụ thêm - More examples:
    - Miền Bắc: "rẽ trái/phải" phổ biến hơn - North: "rẽ trái/phải" more common
    - Miền Nam: "quẹo trái/phải" phổ biến hơn - South: "quẹo trái/phải" more common
    - Cả hai đều được hiểu ở mọi nơi - Both understood everywhere
-
----
 
 ## Bài tập - Practice Exercises
 
@@ -257,14 +215,9 @@ Dịch những câu sau sang tiếng Việt (lịch sự) - Translate the follow
 
 1. Where is the coffee shop?
 
-   ***
-
 2. Go straight, then turn left.
 
-   ***
-
 3. It's on the right.
-   ***
 
 **Đáp án - Answers:**
 
@@ -278,14 +231,9 @@ Dịch những câu sau sang tiếng Anh - Translate the following sentences to 
 
 1. Quán cà phê ở đâu?
 
-   ***
-
 2. Rẽ phải ở ngã tư.
 
-   ***
-
 3. Không xa lắm.
-   ***
 
 **Đáp án - Answers:**
 
@@ -293,14 +241,12 @@ Dịch những câu sau sang tiếng Anh - Translate the following sentences to 
 2. Turn right at the intersection.
 3. Not very far.
 
----
-
 ## Cụm từ bổ sung - Additional Phrases
 
 ### Hữu ích cho chỉ đường - Useful for Giving Directions
 
-| Tiếng Việt                | English                           |
-| ------------------------- | --------------------------------- |
+| Tiếng Việt                           | English                                     |
+|:-------------------------------------|:--------------------------------------------|
 | Xin lỗi, cho tôi hỏi...   | Excuse me, may I ask...           |
 | ... ở đâu?                | Where is...?                      |
 | Tôi bị lạc đường.         | I'm lost.                         |
@@ -316,9 +262,7 @@ Dịch những câu sau sang tiếng Anh - Translate the following sentences to 
 | Phía trước...             | In front of...                    |
 | Giữa... và...             | Between... and...                 |
 | Qua cầu.                  | Cross the bridge.                 |
-| Qua đường.                | Cross the street.                 |
-
----
+| Qua đường.                        | Cross the street.                          |
 
 ## Tóm tắt - Summary
 
@@ -334,7 +278,5 @@ Trong bài học này, bạn đã học - In this lesson, you learned:
 **Lời khuyên cho lần học tiếp theo - Tip for next session:**
 Luyện tập chỉ đường đến nhà bạn hoặc địa điểm yêu thích! Vẽ bản đồ đơn giản và giải thích!
 Practice giving directions to your home or favorite places! Draw a simple map and explain!
-
----
 
 **Chúc bạn đi đường bình an! - Safe travels!**
