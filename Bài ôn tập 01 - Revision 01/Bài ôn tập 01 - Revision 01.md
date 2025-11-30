@@ -1,7 +1,7 @@
 # Bài ôn tập 01: Cá nhân hóa ngôn ngữ - Revision 01: Personalizing Language
 
-**Thời gian - Duration:** 60-90 phút - 60-90 minutes
-**Bối cảnh - Context:** Chuyển đổi kiến thức kịch bản thành giao tiếp cá nhân - Transforming scripted knowledge into personal communication
+**Thời gian - Duration:** 60-90 phút - 60-90 minutes\
+**Bối cảnh - Context:** Chuyển đổi kiến thức kịch bản thành giao tiếp cá nhân - Transforming scripted knowledge into personal communication\
 **Cấp độ - Level:** Ôn tập người mới bắt đầu - Beginner Review
 
 ## Mục tiêu bài học - Lesson Objectives
@@ -26,10 +26,12 @@ This lesson uses only vocabulary from Lessons 01 and 02.
 ### Hệ thống ký hiệu - Notation System
 
 **Phần CỐ ĐỊNH** - **FIXED parts** (grammar structures that don't change):
+
 - Ký hiệu - Notation: **[Ngoặc vuông + in đậm]** - **[Square brackets + bold]**
 - Đây là ngữ pháp, không thay đổi - This is grammar, doesn't change
 
 **Phần THAY ĐỔI** - **VARIABLE parts** (content you can substitute):
+
 - Ký hiệu - Notation: _{Gạch chân + ngoặc nhọn + in nghiêng}_ - _{Underline + curly braces + italic}_
 - Đây là nội dung, bạn có thể thay thế - This is content, you can replace
 
@@ -37,37 +39,40 @@ This lesson uses only vocabulary from Lessons 01 and 02.
 
 **Mẫu 1: Giới thiệu tên - Pattern 1: Introduction**
 
-| Tiếng Việt | English |
-|:-----------|:--------|
-| **[Tôi là]** _{An}_ | **[I am]** _{An}_ |
-| **[Bạn là]** _{Ben}_ | **[You are]** _{Ben}_ |
-| **[Mình là]** _{Mai}_ | **[I am]** _{Mai}_ |
+| Tiếng Việt            | English               |
+| :-------------------- | :-------------------- |
+| **[Tôi là]** _{An}_   | **[I am]** _{An}_     |
+| **[Bạn là]** _{Ben}_  | **[You are]** _{Ben}_ |
+| **[Mình là]** _{Mai}_ | **[I am]** _{Mai}_    |
 
 **Giải thích - Explanation:**
+
 - **[Tôi là]** / **[I am]** = KHÔNG ĐỔI - DOESN'T CHANGE
 - _{An}_ / _{Ben}_ / _{Mai}_ = THAY ĐỔI (tên người) - CHANGES (person's name)
 
 **Mẫu 2: Đang học - Pattern 2: Currently Learning**
 
-| Tiếng Việt | English |
-|:-----------|:--------|
-| **[Tôi đang học]** _{tiếng Việt}_ | **[I am learning]** _{Vietnamese}_ |
-| **[Tôi đang học]** _{tiếng Anh}_ | **[I am learning]** _{English}_ |
-| **[Mình đang học]** _{tiếng Pháp}_ | **[I am learning]** _{French}_ |
+| Tiếng Việt                         | English                            |
+| :--------------------------------- | :--------------------------------- |
+| **[Tôi đang học]** _{tiếng Việt}_  | **[I am learning]** _{Vietnamese}_ |
+| **[Bạn đang học]** _{tiếng Anh}_   | **[You are learning]** _{English}_ |
+| **[Mình đang học]** _{tiếng Pháp}_ | **[I am learning]** _{French}_     |
 
 **Giải thích - Explanation:**
+
 - **[đang học]** / **[am learning]** = KHÔNG ĐỔI - DOESN'T CHANGE
 - _{tiếng Việt}_ / _{tiếng Anh}_ = THAY ĐỔI (ngôn ngữ) - CHANGES (language)
 
 **Mẫu 3: Sở thích - Pattern 3: Preferences**
 
-| Tiếng Việt | English |
-|:-----------|:--------|
-| **[Tôi thích]** _{phở}_ | **[I like]** _{phở}_ |
+| Tiếng Việt                          | English                           |
+| :---------------------------------- | :-------------------------------- |
+| **[Tôi thích]** _{phở}_             | **[I like]** _{phở}_              |
 | **[Tôi không thích]** _{đồ ăn cay}_ | **[I don't like]** _{spicy food}_ |
-| **[Tôi yêu thích]** _{bún bò Huế}_ | **[I love]** _{bún bò Huế}_ |
+| **[Tôi yêu thích]** _{bún bò Huế}_  | **[I love]** _{bún bò Huế}_       |
 
 **Giải thích - Explanation:**
+
 - **[Tôi thích]** / **[I like]** = KHÔNG ĐỔI - DOESN'T CHANGE
 - _{phở}_ / _{đồ ăn cay}_ = THAY ĐỔI (đồ ăn) - CHANGES (food)
 
@@ -76,10 +81,12 @@ This lesson uses only vocabulary from Lessons 01 and 02.
 **Lưu ý quan trọng - Important Note:**
 
 Tiếng Việt:
+
 - **[là]** luôn là **[là]** (không đổi)
 - **[Tôi là]** / **[Bạn là]** / **[Mình là]** (cùng từ **[là]**)
 
 English:
+
 - **[am]** / **[is]** / **[are]** (đổi theo chủ ngữ)
 - **[I am]** / **[You are]** / **[He is]** (khác nhau!)
 
@@ -91,6 +98,7 @@ Ghi 3 video, mỗi video cho 1 mẫu câu:
 Record 3 videos, one for each pattern:
 
 **Video 1: Mẫu giới thiệu - Introduction Pattern**
+
 - Học viên nói (VN): **[Tôi là]** _{[tên học viên]}_
 - Học viên nói (EN): **[I am]** _{[student's name]}_
 - Giáo viên nói (VN): **[Tôi là]** _{[tên giáo viên]}_
@@ -99,14 +107,16 @@ Record 3 videos, one for each pattern:
 Lưu dưới tên - Save as: `01-Pattern-Examples/Pattern-01-Introduction.mp4`
 
 **Video 2: Mẫu đang học - Learning Pattern**
+
 - Học viên: **[Tôi đang học]** _{tiếng Anh}_ / **[I am learning]** _{English}_
 - Giáo viên: **[Tôi đang học]** _{tiếng Việt}_ / **[I am learning]** _{Vietnamese}_
 
 Lưu dưới tên - Save as: `01-Pattern-Examples/Pattern-02-Learning.mp4`
 
 **Video 3: Mẫu sở thích - Preference Pattern**
-- Học viên: **[Tôi thích]** _{[đồ ăn]}_  / **[I like]** _{[food]}_
-- Giáo viên: **[Tôi thích]** _{[đồ ăn]}_  / **[I like]** _{[food]}_
+
+- Học viên: **[Tôi thích]** _{[đồ ăn]}_ / **[I like]** _{[food]}_
+- Giáo viên: **[Tôi thích]** _{[đồ ăn]}_ / **[I like]** _{[food]}_
 
 Lưu dưới tên - Save as: `01-Pattern-Examples/Pattern-03-Preferences.mp4`
 
@@ -122,27 +132,27 @@ Fill in your REAL information in the table.
 
 **Hồ sơ học viên - Student Profile**
 
-| Danh mục - Category | Tiếng Việt - Vietnamese | Tiếng Anh - English |
-|:-------------------|:------------------------|:--------------------|
-| Tên - Name | _________________________ | _________________________ |
-| Quốc tịch - Nationality | Việt Nam | Vietnamese |
-| Đang sống ở - Living in | Úc | Australia |
-| Thành phố - City | _________________________ | _________________________ |
-| Đang học - Learning | tiếng Anh | English |
-| Giúp dạy - Helping teach | tiếng Việt | Vietnamese |
-| Đồ ăn yêu thích - Favorite food | _________________________ | _________________________ |
-| Đồ ăn không thích - Disliked food | _________________________ | _________________________ |
+| Danh mục - Category               | Tiếng Việt - Vietnamese                    | Tiếng Anh - English                        |
+| :-------------------------------- | :----------------------------------------- | :----------------------------------------- |
+| Tên - Name                        | \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\*** | \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\*** |
+| Quốc tịch - Nationality           | Việt Nam                                   | Vietnamese                                 |
+| Đang sống ở - Living in           | Úc                                         | Australia                                  |
+| Thành phố - City                  | \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\*** | \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\*** |
+| Đang học - Learning               | tiếng Anh                                  | English                                    |
+| Giúp dạy - Helping teach          | tiếng Việt                                 | Vietnamese                                 |
+| Đồ ăn yêu thích - Favorite food   | \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\*** | \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\*** |
+| Đồ ăn không thích - Disliked food | \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\*** | \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\*** |
 
 **Hồ sơ giáo viên - Teacher Profile**
 
-| Danh mục - Category | Tiếng Việt - Vietnamese | Tiếng Anh - English |
-|:-------------------|:------------------------|:--------------------|
-| Tên - Name | _________________________ | _________________________ |
-| Quốc tịch - Nationality | _________________________ | _________________________ |
-| Đang học - Learning | tiếng Việt | Vietnamese |
-| Giúp dạy - Helping teach | tiếng Anh | English |
-| Đồ ăn yêu thích - Favorite food | _________________________ | _________________________ |
-| Đồ ăn không thích - Disliked food | _________________________ | _________________________ |
+| Danh mục - Category               | Tiếng Việt - Vietnamese                    | Tiếng Anh - English                        |
+| :-------------------------------- | :----------------------------------------- | :----------------------------------------- |
+| Tên - Name                        | \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\*** | \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\*** |
+| Quốc tịch - Nationality           | \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\*** | \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\*** |
+| Đang học - Learning               | tiếng Việt                                 | Vietnamese                                 |
+| Giúp dạy - Helping teach          | tiếng Anh                                  | English                                    |
+| Đồ ăn yêu thích - Favorite food   | \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\*** | \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\*** |
+| Đồ ăn không thích - Disliked food | \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\*** | \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\*** |
 
 **Mục đích - Purpose:**
 Những từ này sẽ trở thành phần THAY ĐỔI trong bài tập.
@@ -155,21 +165,21 @@ These words will become the VARIABLE parts in your exercises.
 
 **Tiếng Việt - Vietnamese:**
 
-1. **[Xin chào! Tôi là]** _________________________
-2. **[Tôi đến từ]** _________________________
-3. **[Tôi sống ở]** _________________________, _{Úc}_
-4. **[Tôi đang học]** _________________________
-5. **[Tôi thích]** _________________________
-6. **[Tôi không thích]** _________________________
+1. **[Xin chào! Tôi là]** \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\***
+2. **[Tôi đến từ]** \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\***
+3. **[Tôi sống ở]** \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\***, _{Úc}_
+4. **[Tôi đang học]** \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\***
+5. **[Tôi thích]** \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\***
+6. **[Tôi không thích]** \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\***
 
 **Tiếng Anh - English:**
 
-1. **[Hello! I am]** _________________________
-2. **[I am from]** _________________________
-3. **[I live in]** _________________________, _{Australia}_
-4. **[I am learning]** _________________________
-5. **[I like]** _________________________
-6. **[I don't like]** _________________________
+1. **[Hello! I am]** \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\***
+2. **[I am from]** \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\***
+3. **[I live in]** \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\***, _{Australia}_
+4. **[I am learning]** \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\***
+5. **[I like]** \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\***
+6. **[I don't like]** \***\*\*\*\*\*\*\***\_\***\*\*\*\*\*\*\***
 
 **VIDEO HOẠT ĐỘNG 2.3 - VIDEO ACTIVITY 2.3**
 
@@ -181,6 +191,7 @@ Ghi hình học viên nói (nhìn vào máy quay):
 Record student saying (looking at camera):
 
 Tiếng Việt:
+
 ```
 Xin chào! **[Tôi là]** _{[tên]}_
 **[Tôi đến từ]** _{Việt Nam}_
@@ -190,6 +201,7 @@ Xin chào! **[Tôi là]** _{[tên]}_
 ```
 
 Tiếng Anh:
+
 ```
 Hello! **[I am]** _{[name]}_
 **[I am from]** _{Vietnam}_
@@ -218,18 +230,18 @@ Lưu dưới tên - Save as: `03-Teacher-Personal/Teacher-Introduction.mp4`
 **Luyện tập - Practice:**
 
 1. Kịch bản - Script: **[Tôi là]** _{An}_ = **[I am]** _{An}_
-2. **LƯỢT CỦA BẠN - YOUR TURN:** **[Tôi là]** _________________ = **[I am]** _________________
+2. **LƯỢT CỦA BẠN - YOUR TURN:** **[Tôi là]** **\*\*\*\***\_**\*\*\*\*** = **[I am]** **\*\*\*\***\_**\*\*\*\***
 3. Lặp lại 5 lần với những người khác nhau - Repeat 5 times with different people
 
 **Ví dụ - Examples:**
 
-| Người - Person | Tiếng Việt | English |
-|:--------------|:-----------|:--------|
-| Bạn - You | **[Tôi là]** _________________ | **[I am]** _________________ |
-| Đối tác - Partner | **[Tôi là]** _________________ | **[I am]** _________________ |
-| Bạn học - Classmate | **[Tôi là]** _________________ | **[I am]** _________________ |
-| Anh/Chị - Sibling | **[Tôi là]** _________________ | **[I am]** _________________ |
-| Mẹ/Cha - Parent | **[Tôi là]** _________________ | **[I am]** _________________ |
+| Người - Person      | Tiếng Việt                              | English                               |
+| :------------------ | :-------------------------------------- | :------------------------------------ |
+| Bạn - You           | **[Tôi là]** **\*\*\*\***\_**\*\*\*\*** | **[I am]** **\*\*\*\***\_**\*\*\*\*** |
+| Đối tác - Partner   | **[Tôi là]** **\*\*\*\***\_**\*\*\*\*** | **[I am]** **\*\*\*\***\_**\*\*\*\*** |
+| Bạn học - Classmate | **[Tôi là]** **\*\*\*\***\_**\*\*\*\*** | **[I am]** **\*\*\*\***\_**\*\*\*\*** |
+| Anh/Chị - Sibling   | **[Tôi là]** **\*\*\*\***\_**\*\*\*\*** | **[I am]** **\*\*\*\***\_**\*\*\*\*** |
+| Mẹ/Cha - Parent     | **[Tôi là]** **\*\*\*\***\_**\*\*\*\*** | **[I am]** **\*\*\*\***\_**\*\*\*\*** |
 
 ### Bài tập 3.2: Mẫu đang học - Drill 3.2: What I'm Learning
 
@@ -238,19 +250,19 @@ Lưu dưới tên - Save as: `03-Teacher-Personal/Teacher-Introduction.mp4`
 **Luyện tập - Practice:**
 
 1. Kịch bản - Script: **[Tôi đang học]** _{tiếng Việt}_ = **[I am learning]** _{Vietnamese}_
-2. **Thực tế của học viên - Student's reality:** **[Tôi đang học]** _________________ = **[I am learning]** _________________
-3. **Thực tế của giáo viên - Teacher's reality:** **[Tôi đang học]** _________________ = **[I am learning]** _________________
+2. **Thực tế của học viên - Student's reality:** **[Tôi đang học]** **\*\*\*\***\_**\*\*\*\*** = **[I am learning]** **\*\*\*\***\_**\*\*\*\***
+3. **Thực tế của giáo viên - Teacher's reality:** **[Tôi đang học]** **\*\*\*\***\_**\*\*\*\*** = **[I am learning]** **\*\*\*\***\_**\*\*\*\***
 
 **Mở rộng - Extension:**
 
 Thay đổi chủ ngữ - Change the subject:
 
-| Tiếng Việt | English |
-|:-----------|:--------|
-| **[Tôi đang học]** _{tiếng Anh}_ | **[I am learning]** _{English}_ |
-| **[Bạn đang học]** _{tiếng Việt}_ | **[You are learning]** _{Vietnamese}_ |
-| **[Anh ấy đang học]** _{tiếng Pháp}_ | **[He is learning]** _{French}_ |
-| **[Chúng ta đang học]** _{tiếng Nhật}_ | **[We are learning]** _{Japanese}_ |
+| Tiếng Việt                             | English                               |
+| :------------------------------------- | :------------------------------------ |
+| **[Tôi đang học]** _{tiếng Anh}_       | **[I am learning]** _{English}_       |
+| **[Bạn đang học]** _{tiếng Việt}_      | **[You are learning]** _{Vietnamese}_ |
+| **[Anh ấy đang học]** _{tiếng Pháp}_   | **[He is learning]** _{French}_       |
+| **[Chúng ta đang học]** _{tiếng Nhật}_ | **[We are learning]** _{Japanese}_    |
 
 ### Bài tập 3.3: Mẫu sở thích đồ ăn - Drill 3.3: Food Preferences
 
@@ -258,12 +270,12 @@ Thay đổi chủ ngữ - Change the subject:
 
 **Luyện tập với sở thích THẬT của bạn - Practice with YOUR real preferences:**
 
-| Mức độ - Level | Tiếng Việt | English |
-|:--------------|:-----------|:--------|
-| Yêu thích - Love | **[Tôi yêu thích]** _________________ | **[I love]** _________________ |
-| Thích - Like | **[Tôi thích]** _________________ | **[I like]** _________________ |
-| Không thích - Don't like | **[Tôi không thích]** _________________ | **[I don't like]** _________________ |
-| Ghét - Hate | **[Tôi ghét]** _________________ | **[I hate]** _________________ |
+| Mức độ - Level           | Tiếng Việt                                       | English                                       |
+| :----------------------- | :----------------------------------------------- | :-------------------------------------------- |
+| Yêu thích - Love         | **[Tôi yêu thích]** **\*\*\*\***\_**\*\*\*\***   | **[I love]** **\*\*\*\***\_**\*\*\*\***       |
+| Thích - Like             | **[Tôi thích]** **\*\*\*\***\_**\*\*\*\***       | **[I like]** **\*\*\*\***\_**\*\*\*\***       |
+| Không thích - Don't like | **[Tôi không thích]** **\*\*\*\***\_**\*\*\*\*** | **[I don't like]** **\*\*\*\***\_**\*\*\*\*** |
+| Ghét - Hate              | **[Tôi ghét]** **\*\*\*\***\_**\*\*\*\***        | **[I hate]** **\*\*\*\***\_**\*\*\*\***       |
 
 **VIDEO HOẠT ĐỘNG 3.4 - VIDEO ACTIVITY 3.4**
 
@@ -272,10 +284,12 @@ Thay đổi chủ ngữ - Change the subject:
 **Định dạng - Format:** Video so sánh song song - Side-by-side comparison
 
 Ghi hình - Record:
+
 1. Học viên nói mẫu Tiếng Việt → Giáo viên nói cùng mẫu bằng Tiếng Anh
 2. Giáo viên nói mẫu Tiếng Việt → Học viên nói cùng mẫu bằng Tiếng Anh
 
 Ví dụ - Example:
+
 ```
 Học viên (VN): **[Tôi là]** _{[tên]}_
 Giáo viên (EN): **[I am]** _{[cùng tên]}_
@@ -285,6 +299,7 @@ Học viên (EN): **[I am]** _{[cùng tên]}_
 ```
 
 Lặp lại cho 5 mẫu - Repeat for 5 patterns:
+
 - Giới thiệu - Introduction
 - Học ngôn ngữ - Learning language
 - Sở thích đồ ăn - Food preference
@@ -304,18 +319,19 @@ Lưu dưới tên - Save as: `04-Dialogue-Practice/Substitution-Drills.mp4`
 
 **Phiên bản có hướng dẫn - Guided Version:**
 
-| Vai - Role | Tiếng Việt | English |
-|:-----------|:-----------|:--------|
-| **Học viên - Student** | **[Xin chào! Tôi là]** _{_____________}_ | **[Hello! I am]** _{_____________}_ |
-| **Giáo viên - Teacher** | **[Xin chào]** _{_____________}**[! Tôi là]** _{_____________}_ | **[Hello]** _{_____________}**[! I am]** _{_____________}_ |
-| **Học viên - Student** | **[Tôi đang học]** _{tiếng Anh}_**[. Còn bạn?]** | **[I am learning]** _{English}_**[. And you?]** |
-| **Giáo viên - Teacher** | **[Tôi đang học]** _{tiếng Việt}_ | **[I am learning]** _{Vietnamese}_ |
-| **Học viên - Student** | **[Bạn có muốn làm đối tác trao đổi ngôn ngữ không?]** | **[Would you like to be language exchange partners?]** |
-| **Giáo viên - Teacher** | **[Vâng, tôi rất muốn!]** | **[Yes, I would love to!]** |
+| Vai - Role              | Tiếng Việt                                                                   | English                                                                 |
+| :---------------------- | :--------------------------------------------------------------------------- | :---------------------------------------------------------------------- |
+| **Học viên - Student**  | **[Xin chào! Tôi là]** \_{**\*\***\_**\*\***}\_                              | **[Hello! I am]** \_{**\*\***\_**\*\***}\_                              |
+| **Giáo viên - Teacher** | **[Xin chào]** \_{**\*\***\_**\*\***}**[! Tôi là]** \_{**\*\***\_**\*\***}\_ | **[Hello]** \_{**\*\***\_**\*\***}**[! I am]** \_{**\*\***\_**\*\***}\_ |
+| **Học viên - Student**  | **[Tôi đang học]** _{tiếng Anh}_**[. Còn bạn?]**                             | **[I am learning]** _{English}_**[. And you?]**                         |
+| **Giáo viên - Teacher** | **[Tôi đang học]** _{tiếng Việt}_                                            | **[I am learning]** _{Vietnamese}_                                      |
+| **Học viên - Student**  | **[Bạn có muốn làm đối tác trao đổi ngôn ngữ không?]**                       | **[Would you like to be language exchange partners?]**                  |
+| **Giáo viên - Teacher** | **[Vâng, tôi rất muốn!]**                                                    | **[Yes, I would love to!]**                                             |
 
 **Viết hội thoại của BẠN ở đây - Write YOUR dialogue here:**
 
 **Tiếng Việt:**
+
 ```
 Học viên: _________________________________________________________________
 
@@ -327,6 +343,7 @@ Giáo viên: _________________________________________________________________
 ```
 
 **English:**
+
 ```
 Student: _________________________________________________________________
 
@@ -341,13 +358,13 @@ Teacher: _________________________________________________________________
 
 **Sử dụng sở thích ĐỒ ĂN THẬT của bạn - Use YOUR REAL food preferences**
 
-| Vai - Role | Tiếng Việt | English |
-|:-----------|:-----------|:--------|
-| **Giáo viên - Teacher** | **[Bạn thích đồ ăn Việt Nam gì?]** | **[What Vietnamese food do you like?]** |
-| **Học viên - Student** | **[Tôi thích]** _{_____________}_**[. Còn bạn?]** | **[I like]** _{_____________}_**[. And you?]** |
-| **Giáo viên - Teacher** | **[Tôi thích]** _{_____________}_ | **[I like]** _{_____________}_ |
-| **Học viên - Student** | **[Bạn có thích]** _{_____________}_ **[không?]** | **[Do you like]** _{_____________}_**[?]** |
-| **Giáo viên - Teacher** | **[Vâng, tôi thích]** / **[Không, tôi không thích]** | **[Yes, I do]** / **[No, I don't]** |
+| Vai - Role              | Tiếng Việt                                               | English                                               |
+| :---------------------- | :------------------------------------------------------- | :---------------------------------------------------- |
+| **Giáo viên - Teacher** | **[Bạn thích đồ ăn Việt Nam gì?]**                       | **[What Vietnamese food do you like?]**               |
+| **Học viên - Student**  | **[Tôi thích]** \_{**\*\***\_**\*\***}\_**[. Còn bạn?]** | **[I like]** \_{**\*\***\_**\*\***}\_**[. And you?]** |
+| **Giáo viên - Teacher** | **[Tôi thích]** \_{**\*\***\_**\*\***}\_                 | **[I like]** \_{**\*\***\_**\*\***}\_                 |
+| **Học viên - Student**  | **[Bạn có thích]** \_{**\*\***\_**\*\***}\_ **[không?]** | **[Do you like]** \_{**\*\***\_**\*\***}\_**[?]**     |
+| **Giáo viên - Teacher** | **[Vâng, tôi thích]** / **[Không, tôi không thích]**     | **[Yes, I do]** / **[No, I don't]**                   |
 
 **Kỹ thuật quan trọng - Key Technique:**
 
@@ -361,6 +378,7 @@ Teacher: _________________________________________________________________
 **Ghi hình: Hội thoại đầy đủ - Record: Full Dialogue**
 
 **Thiết lập - Setup:**
+
 - Đặt máy quay để thấy cả hai người nói - Position camera to show both speakers
 - Hoặc quay từ một góc nhìn thấy cuộc trò chuyện - Or record from one angle showing conversation
 
@@ -390,21 +408,21 @@ Bạn gặp người mới tại quán cà phê.
 You meet someone new at the café.
 
 → **Mẫu cần dùng - Pattern needed:** Mẫu giới thiệu - Introduction pattern **[Tôi là...]**
-→ **Bạn nói - You say:** **[Xin chào! Tôi là]** _________________ **[. Rất vui được gặp bạn.]**
+→ **Bạn nói - You say:** **[Xin chào! Tôi là]** **\*\*\*\***\_**\*\*\*\*** **[. Rất vui được gặp bạn.]**
 
 **Tình huống 2 - Situation 2:**
 Ai đó hỏi bạn đang học gì.
 Someone asks what you're studying.
 
 → **Mẫu cần dùng - Pattern needed:** Mẫu đang học - Learning pattern **[Tôi đang học...]**
-→ **Bạn nói - You say:** **[Tôi đang học]** _________________
+→ **Bạn nói - You say:** **[Tôi đang học]** **\*\*\*\***\_**\*\*\*\***
 
 **Tình huống 3 - Situation 3:**
 Bạn ở nhà hàng, ai đó hỏi sở thích của bạn.
 You're at a restaurant, someone asks your preference.
 
 → **Mẫu cần dùng - Pattern needed:** Mẫu sở thích - Preference pattern **[Tôi thích...]**
-→ **Bạn nói - You say:** **[Tôi thích]** _________________
+→ **Bạn nói - You say:** **[Tôi thích]** **\*\*\*\***\_**\*\*\*\***
 
 **Tình huống 4 - Situation 4:**
 Bạn muốn hỏi tên của ai đó.
@@ -426,6 +444,7 @@ You want to ask if someone likes spicy food.
 Tạo 2 thẻ vật lý - Create 2 physical cards:
 
 **Thẻ 1 - Card 1:**
+
 ```
 🎥 CUỘC TRÒ CHUYỆN THẬT
    REAL CONVERSATION
@@ -434,6 +453,7 @@ Tạo 2 thẻ vật lý - Create 2 physical cards:
 ```
 
 **Thẻ 2 - Card 2:**
+
 ```
 📖 LUYỆN TẬP KỊCH BẢN
    SCRIPT PRACTICE
@@ -442,6 +462,7 @@ Tạo 2 thẻ vật lý - Create 2 physical cards:
 ```
 
 **Cách luyện tập - How to practice:**
+
 1. Giáo viên giơ thẻ trước khi nói - Teacher holds up card before speaking
 2. Học viên nhìn thẻ và biết cách trả lời - Student sees card and knows how to respond
 3. Thẻ 1 = Dùng tên/thông tin thật của bạn - Card 1 = Use your real name/info
@@ -454,6 +475,7 @@ Tạo 2 thẻ vật lý - Create 2 physical cards:
 **Nếu có thể quay người khác - If you can record others:**
 
 **Video 1: Gặp người mới - Meeting Someone New**
+
 - Ghi ai đó giới thiệu bản thân - Record someone introducing themselves
 - Xác định mẫu họ đang dùng - Identify which pattern they're using
 - Ghi chú - Note: Mẫu **[Subject + là]** _{tên}_ pattern
@@ -461,18 +483,21 @@ Tạo 2 thẻ vật lý - Create 2 physical cards:
 Lưu trong - Save in: `05-Native-Speakers/Speaker-01-Introduction.mp4`
 
 **Video 2: Hỏi về việc học - Asking About Studies**
+
 - Ghi ai đó hỏi "Bạn đang học gì?" - Record someone asking "What are you studying?"
 - Lắng nghe - Listen for: Mẫu **[đang học]** or **[learning]** pattern
 
 Lưu trong - Save in: `05-Native-Speakers/Speaker-02-Learning.mp4`
 
 **Video 3: Thảo luận nhà hàng/đồ ăn - Restaurant/Food Discussion**
+
 - Ghi ai đó diễn đạt sở thích - Record someone expressing preferences
 - Lắng nghe - Listen for: Mẫu **[thích]** / **[like]** pattern
 
 Lưu trong - Save in: `05-Native-Speakers/Speaker-03-Food.mp4`
 
 **Phương án thay thế - Alternative:**
+
 - Ghi hình chính bạn trong các ngữ cảnh khác nhau - Record yourselves in different contexts
 - Cho thấy các mẫu giống nhau hoạt động trong các tình huống khác nhau - Show how same patterns work in different situations
 
@@ -515,13 +540,13 @@ Lưu trong - Save in: `05-Native-Speakers/Speaker-03-Food.mp4`
 **Học viên trả lời bằng thông tin của MÌNH.**
 **Student responds with THEIR information.**
 
-| Câu hỏi - Question | Câu trả lời mẫu - Sample Answer |
-|:------------------|:-------------------------------|
-| Bạn là ai? / Who are you? | **[Tôi là]** _{[tên bạn]}_ / **[I am]** _{[your name]}_ |
-| Bạn đang học gì? / What are you learning? | **[Tôi đang học]** _{tiếng Anh}_ / **[I am learning]** _{English}_ |
-| Bạn thích đồ ăn gì? / What food do you like? | **[Tôi thích]** _{[đồ ăn]}_ / **[I like]** _{[food]}_ |
-| Bạn sống ở đâu? / Where do you live? | **[Tôi sống ở]** _{[thành phố]}_ / **[I live in]** _{[city]}_ |
-| Bạn đến từ đâu? / Where are you from? | **[Tôi đến từ]** _{Việt Nam}_ / **[I am from]** _{Vietnam}_ |
+| Câu hỏi - Question                           | Câu trả lời mẫu - Sample Answer                                    |
+| :------------------------------------------- | :----------------------------------------------------------------- |
+| Bạn là ai? / Who are you?                    | **[Tôi là]** _{[tên bạn]}_ / **[I am]** _{[your name]}_            |
+| Bạn đang học gì? / What are you learning?    | **[Tôi đang học]** _{tiếng Anh}_ / **[I am learning]** _{English}_ |
+| Bạn thích đồ ăn gì? / What food do you like? | **[Tôi thích]** _{[đồ ăn]}_ / **[I like]** _{[food]}_              |
+| Bạn sống ở đâu? / Where do you live?         | **[Tôi sống ở]** _{[thành phố]}_ / **[I live in]** _{[city]}_      |
+| Bạn đến từ đâu? / Where are you from?        | **[Tôi đến từ]** _{Việt Nam}_ / **[I am from]** _{Vietnam}_        |
 
 **VIDEO HOẠT ĐỘNG 6.1 - VIDEO ACTIVITY 6.1**
 
@@ -533,6 +558,7 @@ Giáo viên hỏi câu hỏi (ngẫu nhiên), học viên trả lời ngay lập
 Teacher asks questions (randomly), student responds immediately:
 
 Ghi 2 phiên bản - Record 2 versions:
+
 1. **Câu hỏi Tiếng Việt → Trả lời Tiếng Việt**
    **Vietnamese questions → Vietnamese answers**
 
@@ -585,18 +611,21 @@ Revision-01-Videos/
 ### Mẹo ghi hình - Recording Tips
 
 **Trước khi ghi - Before recording:**
+
 - Ghi ở chế độ ngang (horizontal) - Record in landscape mode
 - Đảm bảo khuôn mặt người nói nhìn thấy rõ và có ánh sáng tốt - Ensure speaker's face is visible and well-lit
 - Kiểm tra âm thanh - Check audio quality
 - Luyện tập câu trước - Practice the sentence first
 
 **Trong khi ghi - While recording:**
+
 - Nói rõ ràng hướng về máy quay/micro - Speak clearly toward camera/microphone
 - Giữ video ngắn (30 giây - 2 phút mỗi video) - Keep videos short (30 seconds - 2 minutes each)
 - Ghi nhiều lần nếu cần - Record multiple takes if needed
 - Tập trung vào phát âm - Focus on pronunciation
 
 **Sau khi ghi - After recording:**
+
 - Xem video cùng nhau - Watch videos together
 - Xác định vấn đề phát âm - Identify pronunciation issues
 - Ghi lại nếu cần thiết - Re-record if necessary
@@ -605,11 +634,13 @@ Revision-01-Videos/
 ### Quy trình xem lại - Review Process
 
 1. **Xem ngay sau khi ghi - Watch immediately after recording**
+
    - Kiểm tra chất lượng - Check quality
    - Xác định lỗi - Identify errors
    - Quyết định có ghi lại không - Decide if re-recording needed
 
 2. **Xem lại hàng tuần - Review weekly**
+
    - So sánh video cũ và mới - Compare old and new videos
    - Theo dõi sự tiến bộ - Track progress
    - Tìm các mẫu cần luyện tập thêm - Find patterns needing more practice
@@ -626,18 +657,22 @@ Revision-01-Videos/
 ### Cho giáo viên - For the Teacher
 
 **Hướng dẫn rõ ràng - Explicit instruction:**
+
 - Chỉ và nói - Point and say: "Phần này không đổi, phần này đổi" - "This part never changes, this part changes"
 - Sử dụng thẻ flashcard vật lý - Use physical flashcards: Di chuyển thẻ THAY ĐỔI, giữ thẻ CỐ ĐỊNH tại chỗ - Move VARIABLE cards, keep FIXED cards in place
 
 **Lặp lại với biến thể - Repetition with variation:**
+
 - Cùng mẫu, nội dung khác nhau, 5+ lần - Same pattern, different content, 5+ times
 - Ví dụ - Example: **[Tôi là]** + 5 tên khác nhau - **[I am]** + 5 different names
 
 **Neo vào thế giới thực - Real-world anchoring:**
+
 - "Khi ai đó hỏi tên bạn, bạn nói..." - "When someone asks your name, you say..."
 - "Khi bạn ở nhà hàng, bạn nói..." - "When you're at a restaurant, you say..."
 
 **Khen ngợi những chiến thắng nhỏ - Celebrate small wins:**
+
 - "Bạn vừa tạo câu của RIÊNG BẠN!" - "You just made YOUR OWN sentence!"
 - "Hoàn hảo! Bạn đã thay thế phần đúng!" - "Perfect! You replaced the right part!"
 
@@ -735,13 +770,13 @@ Now you can talk about yourself, learn more about your family, work, and hobbies
 
 ## Phụ lục: Bảng tham chiếu nhanh mẫu câu - Appendix: Pattern Quick Reference
 
-| Mẫu - Pattern | Tiếng Việt | English | Ví dụ - Example |
-|:-------------|:-----------|:--------|:----------------|
-| Giới thiệu<br>Introduction | **[Tôi là]** _{tên}_ | **[I am]** _{name}_ | **[Tôi là]** _{Mai}_<br>**[I am]** _{Mai}_ |
-| Đang học<br>Learning | **[Tôi đang học]** _{ngôn ngữ}_ | **[I am learning]** _{language}_ | **[Tôi đang học]** _{tiếng Anh}_<br>**[I am learning]** _{English}_ |
-| Sống ở<br>Living in | **[Tôi sống ở]** _{địa điểm}_ | **[I live in]** _{place}_ | **[Tôi sống ở]** _{Sydney}_<br>**[I live in]** _{Sydney}_ |
-| Đến từ<br>From | **[Tôi đến từ]** _{quốc gia}_ | **[I am from]** _{country}_ | **[Tôi đến từ]** _{Việt Nam}_<br>**[I am from]** _{Vietnam}_ |
-| Thích<br>Like | **[Tôi thích]** _{đồ ăn}_ | **[I like]** _{food}_ | **[Tôi thích]** _{phở}_<br>**[I like]** _{phở}_ |
-| Không thích<br>Don't like | **[Tôi không thích]** _{đồ ăn}_ | **[I don't like]** _{food}_ | **[Tôi không thích]** _{đồ cay}_<br>**[I don't like]** _{spicy food}_ |
-| Hỏi tên<br>Ask name | **[Bạn là ai?]** | **[Who are you?]** | **[Xin lỗi, bạn là ai?]**<br>**[Excuse me, who are you?]** |
+| Mẫu - Pattern                  | Tiếng Việt                          | English                                | Ví dụ - Example                                                                                   |
+| :----------------------------- | :---------------------------------- | :------------------------------------- | :------------------------------------------------------------------------------------------------ |
+| Giới thiệu<br>Introduction     | **[Tôi là]** _{tên}_                | **[I am]** _{name}_                    | **[Tôi là]** _{Mai}_<br>**[I am]** _{Mai}_                                                        |
+| Đang học<br>Learning           | **[Tôi đang học]** _{ngôn ngữ}_     | **[I am learning]** _{language}_       | **[Tôi đang học]** _{tiếng Anh}_<br>**[I am learning]** _{English}_                               |
+| Sống ở<br>Living in            | **[Tôi sống ở]** _{địa điểm}_       | **[I live in]** _{place}_              | **[Tôi sống ở]** _{Sydney}_<br>**[I live in]** _{Sydney}_                                         |
+| Đến từ<br>From                 | **[Tôi đến từ]** _{quốc gia}_       | **[I am from]** _{country}_            | **[Tôi đến từ]** _{Việt Nam}_<br>**[I am from]** _{Vietnam}_                                      |
+| Thích<br>Like                  | **[Tôi thích]** _{đồ ăn}_           | **[I like]** _{food}_                  | **[Tôi thích]** _{phở}_<br>**[I like]** _{phở}_                                                   |
+| Không thích<br>Don't like      | **[Tôi không thích]** _{đồ ăn}_     | **[I don't like]** _{food}_            | **[Tôi không thích]** _{đồ cay}_<br>**[I don't like]** _{spicy food}_                             |
+| Hỏi tên<br>Ask name            | **[Bạn là ai?]**                    | **[Who are you?]**                     | **[Xin lỗi, bạn là ai?]**<br>**[Excuse me, who are you?]**                                        |
 | Hỏi sở thích<br>Ask preference | **[Bạn thích]** _{đồ ăn}_ **[gì?]** | **[What]** _{food}_ **[do you like?]** | **[Bạn thích]** _{đồ ăn Việt Nam}_ **[gì?]**<br>**[What Vietnamese]** _{food}_ **[do you like?]** |
